@@ -42,6 +42,7 @@ German President Frank-Walter Steinmeier reacts to th…",jas_abroad,"Berlin, Ge
 53,"RT @InIIS_Bremen: In light of this week's #WashingtonDC riots, we highly recommend E. Gaufman's (@lisas_research) 2018 article ""The #Trump…",jas_abroad,"Berlin, Germany",Germany,female,en,"['light', 'week', 'washingtondc', 'riot', 'high', 'recommend', 'e', 'gaufman', 'lisasresearch', 'articl', 'trump']",0.28,0.6199999999999999,positive
 54,"RT @thehill: Texas Democrats Joaquin and Julián Castro call for Cruz to step down: ""He has conducted himself shamelessly"" https://t.co/eGz6…",jas_abroad,"Berlin, Germany",Germany,female,en,"['texa', 'democrat', 'joaquin', 'julin', 'castro', 'call', 'cruz', 'step', 'ha', 'conduct', 'shameless', 'httpstcoegz']",-0.15555555555555559,0.2888888888888889,negative
 55,"RT @arlenebtickner: ""Due to travel restrictions, this year the United States had to organize the coup at home.”",jas_abroad,"Berlin, Germany",Germany,female,en,"['due', 'travel', 'restrict', 'year', 'unit', 'state', 'organ', 'coup', 'home']",-0.125,0.375,negative
+56,@ultimateloather @find_evil Accurate,jas_abroad,"Berlin, Germany",Germany,female,en,"['ultimateloath', 'findevil', 'accur']",0.4000000000000001,0.6333333333333334,positive
 57,"RT @Public_Citizen: For reference, there were 14,000+ arrests at the George Floyd protests.",jas_abroad,"Berlin, Germany",Germany,female,en,"['refer', 'arrest', 'georg', 'floyd', 'protest']",0.0,0.0,neutral
 58,"RT @coolieduppy: ‘When the looting starts, the shooting starts’*
 
@@ -117,14 +118,15 @@ Implementing Cyber Norms: National Experiences and Emerging Good Practices https
 137,RT @iron_emu: It's hard to capture the absence of activity. How do you show something that is missing? These wonderful @reuters pictures do…,sa_zeet,Vienna,Germany,unknown,en,"['hard', 'captur', 'absenc', 'activ', 'show', 'someth', 'miss', 'wonder', 'reuter', 'pictur']",0.12395833333333334,0.3979166666666667,positive
 139,@_schwindelfrei_ @forumalpbach congrats!,sa_zeet,Vienna,Germany,unknown,en,"['schwindelfrei', 'forumalpbach', 'congrat']",0.0,0.0,neutral
 140,RT @m_tisserand: we are all edward hopper paintings now https://t.co/gpcmSiavkD,sa_zeet,Vienna,Germany,unknown,en,"['edward', 'hopper', 'paint', 'httpstcogpcmsiavkd']",0.0,0.0,neutral
+141,@IsraelinGermany 🥰,sa_zeet,Vienna,Germany,unknown,en,['israelingermani'],0.0,0.0,neutral
 142,RT @benjaminokeefe: Kindness is a progressive value. Pass it on.,sa_zeet,Vienna,Germany,unknown,en,"['kind', 'progress', 'valu', 'pas']",0.0,0.0,neutral
 144,@TheAtlantic @daniellebeurt devastating on so many levels,sa_zeet,Vienna,Germany,unknown,en,"['theatlant', 'daniellebeurt', 'devast', 'mani', 'level']",-0.25,0.75,negative
-147,@datagvat @doew_at tolle Sache!,sa_zeet,Vienna,Germany,unknown,en,"['datagvat', 'doewat', 'toll', 'sach']",0.0,0.0,neutral
 148,@nixintel @SANSInstitute Great topic! Extremely relevant question in all types of OSINT work.,louisjarvers,"New York, USA",USA,male,en,"['nixintel', 'sansinstitut', 'great', 'topic', 'extrem', 'relev', 'question', 'type', 'osint', 'work']",0.7,0.825,positive
 150,@0xdhf @z_edian Underrated German humor,louisjarvers,"New York, USA",USA,male,en,"['xdhf', 'zedian', 'underr', 'german', 'humor']",0.0,0.0,neutral
 151,"As #Germany prepares for federal elections in September, I looked back at the 2015 #Bundestag hack and assessed… https://t.co/Q38vDKHbFY",louisjarvers,"New York, USA",USA,male,en,"['germani', 'prepar', 'feder', 'elect', 'septemb', 'look', 'back', 'bundestag', 'hack', 'assess', 'httpstcoqvdkhbfi']",0.0,0.0,neutral
 152,Insightful study on #deradicalization of German #FarRight. Particularly interesting is the #OSINT methodology: Gans… https://t.co/ayscCpGSnm,louisjarvers,"New York, USA",USA,male,en,"['insight', 'studi', 'deradic', 'german', 'farright', 'particular', 'interest', 'osint', 'methodolog', 'gan', 'httpstcoaysccpgsnm']",0.25,0.25,positive
 153,This is what #osint can do! Amazing work by @DFRLab! 👏 https://t.co/nMWHlD7PXG,louisjarvers,"New York, USA",USA,male,en,"['osint', 'amaz', 'work', 'dfrlab', 'httpstconmwhldpxg']",0.7500000000000001,0.9,positive
+154,@doctorow @netzpolitik Relevant for @bellingcat and @DFRLab ?,louisjarvers,"New York, USA",USA,male,en,"['doctorow', 'netzpolitik', 'relev', 'bellingcat', 'dfrlab']",0.4,0.9,positive
 155,@Tombolamusikant @Nabertronic OK boomer.,louisjarvers,"New York, USA",USA,male,en,"['tombolamusik', 'nabertron', 'ok', 'boomer']",0.5,0.5,positive
 159,"@z_edian Spotted @Jason_Healey, @nejenkins and JD Work (@HostileSpectrum) there. Good choice! 🧐",louisjarvers,"New York, USA",USA,male,en,"['zedian', 'spot', 'jasonhealey', 'nejenkin', 'jd', 'work', 'hostilespectrum', 'good', 'choic']",0.875,0.6000000000000001,positive
 160,How to mitigate the exposure to traumatizing content from #OSINT research? Great study and best practice from… https://t.co/FenkuxUqSH,louisjarvers,"New York, USA",USA,male,en,"['mitig', 'exposur', 'traumat', 'content', 'osint', 'research', 'great', 'studi', 'best', 'practic', 'httpstcofenkuxuqsh']",0.9,0.525,positive
@@ -151,6 +153,7 @@ We’ve gotten dozens of request from political reporters asking to be connected
 188,sunshine https://t.co/JK80Em8kMn,askans,"Bonn, Germany",Germany,unknown,en,"['sunshin', 'httpstcojkemkmn']",0.0,0.0,neutral
 190,RT @underdarkGIS: #Mobility restrictions during the first #COVID19 wave in March 2020 left noticeable marks in the #UberMovement data for #…,askans,"Bonn, Germany",Germany,unknown,en,"['mobil', 'restrict', 'dure', 'first', 'covid', 'wave', 'march', 'left', 'notic', 'mark', 'ubermov', 'data']",0.125,0.16666666666666666,positive
 191,"@RikDelhaas same here, but no snow today: AMS 1 - BN 0",askans,"Bonn, Germany",Germany,unknown,en,"['rikdelhaa', 'snow', 'today', 'bn']",0.0,0.125,neutral
+193,@RikDelhaas Did that ever happen before?,askans,"Bonn, Germany",Germany,unknown,en,"['rikdelhaa', 'ever', 'happen', 'befor']",0.0,0.0,neutral
 195,"""If #taste is just personal preference, then everyone's is already perfect: you like whatever you like, and that's… https://t.co/8h52wE1i0u",askans,"Bonn, Germany",Germany,unknown,en,"['tast', 'person', 'prefer', 'everyon', 'alreadi', 'perfect', 'like', 'whatev', 'like', 'httpstcohweiu']",0.5,0.65,positive
 199,RT @TheEconomist: On India's Republic Day a small contingent of agricultural workers stormed Delhi's red fort. Then Rihanna got involved. W…,askans,"Bonn, Germany",Germany,unknown,en,"['india', 'republ', 'day', 'small', 'conting', 'agricultur', 'worker', 'storm', 'delhi', 'red', 'fort', 'rihanna', 'got', 'involv', 'w']",-0.11666666666666665,0.3333333333333333,negative
 204,"Thermomix, @tovalafood - Home cooking is changing
@@ -200,7 +203,11 @@ v @ingliguori
 257,"RT @netzpalaver: Podcast: Interview with 2N about #Smartphone #Credentials - the future of #accesscontrol everywhere
 
 #Authentifizierung #C…",ralf_ladner,"Bayern, Deutschland",Germany,male,en,"['podcast', 'interview', 'n', 'smartphon', 'credenti', 'futur', 'accesscontrol', 'everywhereauthentifizierung', 'c']",0.0,0.125,neutral
+259,"Lancom-Aggregation-Switch für Enterprise-Netzwerke
+
+# HighendSwitch #10GBit #AggregationSwitch #CloudManagement… https://t.co/ZocQwffo2c",ralf_ladner,"Bayern, Deutschland",Germany,male,en,"['lancomaggregationswitch', 'für', 'enterprisenetzwerk', 'highendswitch', 'gbit', 'aggregationswitch', 'cloudmanag', 'httpstcozocqwffoc']",0.0,0.0,neutral
 264,RT @netzpalaver: Top 50 Global Thought Leaders and Influencers on Cloud Computing (January 2021) https://t.co/c8OKQb649d,ralf_ladner,"Bayern, Deutschland",Germany,male,en,"['top', 'global', 'thought', 'leader', 'influenc', 'cloud', 'comput', 'januari', 'httpstcocokqbd']",0.25,0.25,positive
+270,RT @ChristophWitt: #schnee in #berlin! Das #tempelhoferfeld wird morgen so toll aussehen! #thf #thfbleibt https://t.co/lNWGYVr7SC,andrea_no_,Berlin,Germany,female,en,"['schnee', 'berlin', 'da', 'tempelhoferfeld', 'wird', 'morgen', 'toll', 'aussehen', 'thf', 'thfbleibt', 'httpstcolnwgyvrsc']",0.0,0.0,neutral
 271,"@allenholub @AmyCEdmondson @WoodyZuill Great, thanks! New to me. Seem very interesting. Can‘t wait to see if I find… https://t.co/rWMLyhihTP",andrea_no_,Berlin,Germany,female,en,"['allenholub', 'amycedmondson', 'woodyzuil', 'great', 'thank', 'new', 'seem', 'veri', 'interest', 'cant', 'wait', 'see', 'find', 'httpstcorwmlyhihtp']",0.4590909090909091,0.5136363636363637,positive
 275,"@allenholub What other guides (in any sense) would you recommend about how to work with messy, spirited debate about a product?",andrea_no_,Berlin,Germany,female,en,"['allenholub', 'guid', 'ani', 'sens', 'would', 'recommend', 'work', 'messi', 'spirit', 'debat', 'product']",0.05833333333333333,0.5916666666666667,positive
 282,RT @Ace_KYD: Backend devs - how do you showcase your portfolio?,andrea_no_,Berlin,Germany,female,en,"['backend', 'dev', 'showcas', 'portfolio']",0.0,0.0,neutral
@@ -308,6 +315,9 @@ h…",SF_Dietlmeier,Munich,Germany,male,en,"['icymi', 'gaiax', 'european', 'proj
 406,RT @GERonCyber: Taking „Rethinking Arms Control“ further:  tomorrow we organise a workshop on security and foreign policy aspects of Brain-…,SF_Dietlmeier,Munich,Germany,male,en,"['take', 'rethink', 'arm', 'control', 'tomorrow', 'organis', 'workshop', 'secur', 'foreign', 'polici', 'aspect', 'brain']",-0.0625,0.3125,negative
 407,RT @ACGeoTech: Join us at tomorrow’s launch event for the first GeoTech report in which @matburrows &amp; @JMuellerKaler analyze the quest for…,SF_Dietlmeier,Munich,Germany,male,en,"['join', 'u', 'tomorrow', 'launch', 'event', 'first', 'geotech', 'report', 'matburrow', 'amp', 'jmuellerkal', 'analyz', 'quest']",0.25,0.3333333333333333,positive
 409,RT @tim_minshall: #COVID19  has brought renewed attention to the importance of #manufacturing. In order to ‘emerge stronger’ from the crisi…,SF_Dietlmeier,Munich,Germany,male,en,"['covid', 'ha', 'brought', 'renew', 'attent', 'import', 'manufactur', 'order', 'emerg', 'stronger', 'crisi']",0.0,0.0,neutral
+410,"RT @ale_paulus: I proudly present: Die afaik erste deutschsprachige Grafik der 11 UNGGE Cyber Normen, courtesy of @sefbonn! 
+
+Sie ist @crea…",denialstein,"Kassel, Hessen",Germany,male,en,"['proud', 'present', 'die', 'afaik', 'erst', 'deutschsprachig', 'grafik', 'der', 'ungg', 'cyber', 'norman', 'courtesi', 'sefbonn', 'sie', 'ist', 'crea']",0.0,0.0,neutral
 421,"Downloadspeed = 690 MBit/Sek. 
 Updating in @Steam - Ready to launch in approximately: 1 year
 🙄",denialstein,"Kassel, Hessen",Germany,male,en,"['downloadspe', 'mbitsek', 'updat', 'steam', 'readi', 'launch', 'approxim', 'year']",-0.1,0.55,negative
@@ -317,7 +327,6 @@ The little prince (Saint-Exupery)",denialstein,"Kassel, Hessen",Germany,male,en,
 428,"@sherrod_im #Amiga is a gaming computer. Oh wait, that was 1990..",denialstein,"Kassel, Hessen",Germany,male,en,"['sherrodim', 'amiga', 'game', 'comput', 'oh', 'wait', 'wa']",0.0,0.0,neutral
 435,RT @robinhood: Lovely to have all these new followers .. can we just check that you know that you’re following The World Wide Robin Hood So…,tjolp,"Berlin, Germany",Germany,male,en,"['love', 'new', 'follow', 'check', 'know', 'follow', 'world', 'wide', 'robin', 'hood']",0.1340909090909091,0.42613636363636365,positive
 442,@LordElend @NotMyRobots #notmyrocket,tjolp,"Berlin, Germany",Germany,male,en,"['lordelend', 'notmyrobot', 'notmyrocket']",0.0,0.0,neutral
-444,"@ChristianeFalk Yeah Danke &amp; wie cool, mein Tweet im Radio 😍 Wie immer tolle Sendung &amp; top Musikauswahl 🤩",tjolp,"Berlin, Germany",Germany,male,en,"['christianefalk', 'yeah', 'dank', 'amp', 'wie', 'cool', 'mein', 'tweet', 'im', 'radio', 'wie', 'immer', 'toll', 'sendung', 'amp', 'top', 'musikauswahl']",0.425,0.575,positive
 446,Congrats &amp; good luck! https://t.co/lVo6MarJEt,tjolp,"Berlin, Germany",Germany,male,en,"['congrat', 'amp', 'good', 'luck', 'httpstcolvomarjet']",0.875,0.6000000000000001,positive
 450,"Join us Monday for this talk on #healthinequality by @jpheisig of @WZB_Berlin!
 
@@ -376,7 +385,6 @@ As enablers of green and digital transitions, #Strate…",RaquelJorgeR,"Washingt
 504,You aren’t kidding @HamillHimself .. homeschooling at its best https://t.co/xlLvjebLu8,Beckswunderland,Mittelsachsen +Silicon Valley,USA,female,en,"['arent', 'kid', 'hamillhimself', 'homeschool', 'best', 'httpstcoxllvjeblu']",1.0,0.3,positive
 505,Good bye Captain.... If I had a son his name would be Georg (George). When I was younger I took the #SoundOfMusic t… https://t.co/qiU3Rc2NxF,Beckswunderland,Mittelsachsen +Silicon Valley,USA,female,en,"['good', 'bye', 'captain', 'son', 'name', 'would', 'georg', 'georg', 'wa', 'younger', 'took', 'soundofmus', 'httpstcoqiurcnxf']",0.35,0.30000000000000004,positive
 506,Did you see this @sarahgranger @CassidyJonesAdv and other #screenfemmes #womeninfilm #40plus https://t.co/IxXuI4u6pr,Beckswunderland,Mittelsachsen +Silicon Valley,USA,female,en,"['see', 'sarahgrang', 'cassidyjonesadv', 'screenfemm', 'womeninfilm', 'plus', 'httpstcoixxuiupr']",-0.125,0.375,negative
-507,@emilybest @seedandspark great news!! https://t.co/l75Vv4HCLM,Beckswunderland,Mittelsachsen +Silicon Valley,USA,female,en,"['emilybest', 'seedandspark', 'great', 'news', 'httpstcolvvhclm']",1.0,0.75,positive
 508,Are you working on your @netflix pitch? This landed in my inbox and thought you might want to also check it out.… https://t.co/QHGclHA0Rh,Beckswunderland,Mittelsachsen +Silicon Valley,USA,female,en,"['work', 'netflix', 'pitch', 'land', 'inbox', 'thought', 'might', 'want', 'also', 'check', 'httpstcoqhgclharh']",0.0,0.0,neutral
 509,RT @WomenaHollywood: Oscars 2021 International Feature Contenders: Meet Kaouther Ben Hania – “The Man Who Sold His Skin” https://t.co/A9IPh…,Beckswunderland,Mittelsachsen +Silicon Valley,USA,female,en,"['oscar', 'intern', 'featur', 'contend', 'meet', 'kaouther', 'ben', 'hania', 'man', 'sold', 'skin', 'httpstcoaiph']",0.0,0.0,neutral
 510,"RT @ArturOlesch: ""International Day Of Women And Girls In Science 2021"" 👩‍🔬 Please meet Joanna Bryson @j2bryson, Professor for Ethics &amp; Tec…",LordElend,Berlin,Germany,male,en,"['intern', 'day', 'woman', 'girl', 'scienc', 'pleas', 'meet', 'joanna', 'bryson', 'jbryson', 'professor', 'ethic', 'amp', 'tec']",0.0,0.0,neutral
@@ -514,6 +522,9 @@ Let’s smash stereotypes, defy gender bias and defeat discrimination that holds
 
 The report engages directly with issues of policy… https://t.co/1uwxTt3MeY",TheLastEuropean,"San Francisco, CA",USA,male,en,"['new', 'januari', 'report', 'futureofwork', 'european', 'parliamentth', 'report', 'engag', 'direct', 'issu', 'polici', 'httpstcouwxttmey']",0.07878787878787878,0.28484848484848485,positive
 675,Great initiative by @pashupatina and team! https://t.co/TD5PHO6bqU,TheLastEuropean,"San Francisco, CA",USA,male,en,"['great', 'initi', 'pashupatina', 'team', 'httpstcotdphobqu']",1.0,0.75,positive
+676,"RT @Gianlucamisu: *Great Opportunity* to support shaping International cooperation on AI!
+
+Colin van Noordt Giovanni Davide Zenga @digitala…",TheLastEuropean,"San Francisco, CA",USA,male,en,"['great', 'opportun', 'support', 'shape', 'intern', 'cooper', 'aicolin', 'van', 'noordt', 'giovanni', 'david', 'zenga', 'digitala']",0.4,0.375,positive
 677,RT @drfeifei: Indeed all of us @StanfordHAI are honored to have this conversation with the congressional @AICaucus members discussing many…,TheLastEuropean,"San Francisco, CA",USA,male,en,"['inde', 'u', 'stanfordhai', 'honor', 'convers', 'congression', 'aicaucus', 'member', 'discuss', 'mani']",0.0,0.0,neutral
 678,“Measuring government responses to citizens’ concerns in hours is important because it demonstrates to citizens tha… https://t.co/czRMPrV1uT,TheLastEuropean,"San Francisco, CA",USA,male,en,"['measur', 'govern', 'respons', 'citizen', 'concern', 'hour', 'import', 'becaus', 'demonstr', 'citizen', 'tha', 'httpstcoczrmprvut']",0.4,1.0,positive
 679,"RT @ipfconline1: Omar Hatamleh &amp; @TheLastEuropean on the #AI World of the Present, Steering #AI to Benefit Humanity, and their Book “Betwee…",TheLastEuropean,"San Francisco, CA",USA,male,en,"['omar', 'hatamleh', 'amp', 'thelasteuropean', 'ai', 'world', 'present', 'steer', 'ai', 'benefit', 'human', 'book', 'betwe']",0.0,0.0,neutral
@@ -548,6 +559,7 @@ Here are some ways to ↘️ your #cancer risk:
 🚭 Don't use tobacco
 🏊‍♂️ Exercise regularly
 🍅 Eat healthy f…",NessiWi,Wiesbaden.Berlin.Roma.Padova.,USA,female,en,"['today', 'worldcancerday', 'way', 'cancer', 'risk', 'dont', 'use', 'tobacco', 'exercis', 'regular', 'eat', 'healthi', 'f']",0.25,0.28846153846153844,positive
+796,Cooles Tool! 👩‍💻 https://t.co/x46yQo3xOG,NessiWi,Wiesbaden.Berlin.Roma.Padova.,USA,female,en,"['cool', 'tool', 'httpstcoxyqoxog']",0.0,0.0,neutral
 801,@pretzpolitics @gloriamue93 @JenoKrishnan @cpkrohne 🚀,NessiWi,Wiesbaden.Berlin.Roma.Padova.,USA,female,en,"['pretzpolit', 'gloriamu', 'jenokrishnan', 'cpkrohn']",0.0,0.0,neutral
 808,"RT @leecronin: Just given a talk on Digital Chemistry, AI &amp; Materials Discovery  in China through zoom to 14 people but just found out that…",eideseder,"Berlin, Germany",Germany,female,en,"['given', 'talk', 'digit', 'chemistri', 'ai', 'amp', 'materi', 'discoveri', 'china', 'zoom', 'peopl', 'found']",0.0,0.0,neutral
 809,@leecronin Imagine this amount of people in real life. Very cool Prof. Cronin! Rockstar of Science :-) https://t.co/H2PMLNdSel,eideseder,"Berlin, Germany",Germany,female,en,"['leecronin', 'imagin', 'amount', 'peopl', 'real', 'life', 'veri', 'cool', 'prof', 'cronin', 'rockstar', 'scienc', 'httpstcohpmlndsel']",0.42291666666666666,0.715,positive
@@ -613,6 +625,7 @@ We have to start thinking in…",jgvazzana,"Washington, DC",USA,female,en,"['ser
 866,"RT @GaryLegum: It's Donald Trump, everyone should absolutely be prepared for the worst-case scenario. 
 
 https://t.co/HGs9NJmXNT",jgvazzana,"Washington, DC",USA,female,en,"['donald', 'trump', 'everyon', 'absolut', 'prepar', 'worstcas', 'scenario', 'httpstcohgsnjmxnt']",0.2,0.9,positive
+867,RT @Salkitten: It is time. https://t.co/izmbNZwmRL,jgvazzana,"Washington, DC",USA,female,en,"['time', 'httpstcoizmbnzwmrl']",0.0,0.0,neutral
 888,📣 Short notice: Join the #UrbanAge panel discussion today at 5 pm CET on the role of urban planning &amp; governance in… https://t.co/r95l30fwBL,AHG_Berlin,Berlin,Germany,male,en,"['short', 'notic', 'join', 'urbanag', 'panel', 'discuss', 'today', 'pm', 'cet', 'role', 'urban', 'plan', 'amp', 'govern', 'httpstcorlfwbl']",0.0,0.15,neutral
 889,"In our project “Digital Europa 2030”, we imagined problematic scenarios in which #Huawei 5G networks dominated eith… https://t.co/Is8S4Uy870",AHG_Berlin,Berlin,Germany,male,en,"['project', 'digit', 'europa', 'imagin', 'problemat', 'scenario', 'huawei', 'g', 'network', 'domin', 'eith', 'httpstcoissuy']",0.0,0.0,neutral
 891,What will cities look like after the pandemic? This question is at the heart of the #UrbanAgeDebates. In conversati… https://t.co/0q66rHWojQ,AHG_Berlin,Berlin,Germany,male,en,"['citi', 'look', 'like', 'pandem', 'question', 'heart', 'urbanagedeb', 'conversati', 'httpstcoqrhwojq']",0.0,0.0,neutral
@@ -886,7 +899,6 @@ Some… https://t.co/7aYcFoIozn",akhildeo94,Berlin,Germany,male,en,"['suprem', '
 
 https://t.co/eicK8l2wiL",akhildeo94,Berlin,Germany,male,en,"['great', 'report', 'ewast', 'child', 'labor', 'indiahttpstcoeicklwil']",0.8,0.75,positive
 1263,"RT @PranavDixit: The Twitter account of The Caravan, India's leading investigative journalism magazine, has been withheld in India by Twitt…",akhildeo94,Berlin,Germany,male,en,"['twitter', 'account', 'caravan', 'india', 'lead', 'investig', 'journal', 'magazin', 'ha', 'withheld', 'india', 'twitt']",0.0,0.0,neutral
-1271,RT @marcelweiss: Hass macht populär,ethicist_arbor,"Saarbrücken, Deutschland",Germany,male,en,"['ha', 'macht', 'populär']",0.0,0.0,neutral
 1275,"@JFBonnefon Spread it across multiple days/weekends &amp; move timeslots dynamically. For instance:
 
 * Sat.1: 10am to 2… https://t.co/sPe7iFixH4",ethicist_arbor,"Saarbrücken, Deutschland",Germany,male,en,"['jfbonnefon', 'spread', 'across', 'multipl', 'daysweekend', 'amp', 'move', 'timeslot', 'dynam', 'instanc', 'sat', 'httpstcospeifixh']",0.0,0.0,neutral
@@ -1177,6 +1189,7 @@ We can help you to address them! 🔐🇺🇸
 1596,I‘m a Dukie 💙😈 @DukeU  #NewProfilePic https://t.co/tbwMLekWs5,CharlotteKais10,"Durham, NC",USA,female,en,"['im', 'duki', 'dukeu', 'newprofilep', 'httpstcotbwmlekw']",0.0,0.0,neutral
 1597,"Very excited for talks about Data Privacy &amp; Race, Schrems II, Google LLC v CNIL and meaningful choices when it come… https://t.co/7g98DRVJUr",CharlotteKais10,"Durham, NC",USA,female,en,"['veri', 'excit', 'talk', 'data', 'privaci', 'amp', 'race', 'schrem', 'ii', 'googl', 'llc', 'v', 'cnil', 'meaning', 'choic', 'come', 'httpstcogdrvjur']",0.49375,0.7375,positive
 1600,"RT @FMH_EU: Imagine where we as a society could be today if, in addition to all the skills of us #men, all the various skills of #women had…",CharlotteKais10,"Durham, NC",USA,female,en,"['imagin', 'societi', 'could', 'today', 'addit', 'skill', 'u', 'men', 'various', 'skill', 'woman']",0.0,0.5,neutral
+1614,Climbing in SoCal✅ https://t.co/xvdMHvZQTl,CharlotteKais10,"Durham, NC",USA,female,en,"['climb', 'socal', 'httpstcoxvdmhvzqtl']",0.0,0.0,neutral
 1617,"RT @EUErasmusPlus: We are active in communicating with children and teenagers about what the EU is and what it does, but we need your feedb…",EU_Bonn,"Für NRW, Hessen, RLP, Saarland",Germany,unknown,en,"['activ', 'communic', 'child', 'teenag', 'eu', 'doe', 'need', 'feedb']",-0.13333333333333333,0.6,negative
 1620,"RT @vonderleyen: Vaccines will help solve the health crisis. 
 
@@ -1288,6 +1301,7 @@ More information about our a… https://t.co/72uH91lSRT",Vidmish22,Berlin,German
 1713,"RT @genderhealthhub: Gender-Based Violence is on the rise. 
 
 We dedicate this week to analysing how #GBV Response Services can be maintaine…",Vidmish22,Berlin,Germany,female,en,"['genderbas', 'violenc', 'rise', 'dedic', 'week', 'analys', 'gbv', 'respons', 'servic', 'maintain']",0.0,0.0,neutral
+1714,@bressansar @JWI_Berlin Thank you!,Vidmish22,Berlin,Germany,female,en,"['bressansar', 'jwiberlin', 'thank']",0.0,0.0,neutral
 1715,"🚦Securing Europe's roads and preparing for the future.
 
 Today @enisa_eu and @EUsciencehub jointly publish on artifi… https://t.co/qIswV9lKjV",GroovyHeuvy,Dublin/Brussels/Athens,Germany,female,en,"['secur', 'europ', 'road', 'prepar', 'futuretoday', 'enisaeu', 'eusciencehub', 'joint', 'publish', 'artifi', 'httpstcoqiswvlkjv']",0.0,0.125,neutral
@@ -1520,7 +1534,6 @@ We have one more week to go. If you've not done, please let us know what…",Ale
 2029,"RT @cyberdees: 5 years ago I found myself in Abidjan, Ivory Coast (Côte d'Ivoire) connecting with @BacelyYorobi and the local @Mozilla @Fir…",AlexKlepel,"Berlin, Deutschland",Germany,male,en,"['year', 'ago', 'found', 'abidjan', 'ivori', 'coast', 'cte', 'divoir', 'connect', 'bacelyyorobi', 'local', 'mozilla', 'fir']",0.0,0.0,neutral
 2031,"RT @euaifund: Hi, we’re the European AI fund - a philanthropic initiative to shape the direction of AI in Europe by strengthening the voice…",AlexKlepel,"Berlin, Deutschland",Germany,male,en,"['hi', 'european', 'ai', 'fund', 'philanthrop', 'initi', 'shape', 'direct', 'ai', 'europ', 'strengthen', 'voic']",0.0,0.0,neutral
 2032,"RT @doctorow: We are living in a golden age of predatory capitalism, in which businesses that generate real value and stable employment are…",AlexKlepel,"Berlin, Deutschland",Germany,male,en,"['live', 'golden', 'age', 'predatori', 'capit', 'busi', 'generat', 'real', 'valu', 'stabl', 'employ']",0.25,0.4,positive
-2033,@KathyReid @mozilla Thanks Kathy! ☺️,AlexKlepel,"Berlin, Deutschland",Germany,male,en,"['kathyreid', 'mozilla', 'thank', 'kathi']",0.25,0.2,positive
 2036,RT @walli5: Saludos! ⁦@barcelona_cat⁩ ⁦@BCNGalleryWknd⁩ #galleryweekendberlin 🇪🇺 https://t.co/axX8b9eGCh,AlexKlepel,"Berlin, Deutschland",Germany,male,en,"['saludo', 'barcelonacat', 'bcngallerywknd', 'galleryweekendberlin', 'httpstcoaxxbegch']",0.0,0.0,neutral
 2047,"RT @nytimes: The pandemic exposed “work-life balance” for the lie that it is. Now, a generation of America’s mothers is teetering on the ed…",KathaMars,"Berlin, Deutschland",Germany,female,en,"['pandem', 'expos', 'worklif', 'balanc', 'lie', 'generat', 'america', 'mother', 'teeter', 'ed']",0.0,0.0,neutral
 2059,RT @tinaleeinberlin: In my latest newsletter I'm looking at the downfall of the Dutch government and how it connects to a long-standing rig…,KathaMars,"Berlin, Deutschland",Germany,female,en,"['latest', 'newslett', 'im', 'look', 'downfal', 'dutch', 'govern', 'connect', 'longstand', 'rig']",0.5,0.9,positive
@@ -1558,7 +1571,6 @@ Happy hacking games and may the shell ever be in your favor 🥳🥳🥳",e2hln,
 Thanks to these inspiring leaders for s…",e2hln,"Toronto, Ontario",USA,female,en,"['honour', 'introduc', 'advisori', 'board', 'canadian', 'woman', 'cybersecuritythank', 'inspir', 'leader']",0.35,0.6,positive
 2086,@k3r3n3 @LadiesCyber @Reutooo_ @ElLicho007 I can’t wait! 🤩 #CTF #leadingcyberladies #womenincyber #womenintech 🙌 https://t.co/oM3jZtz9NC,e2hln,"Toronto, Ontario",USA,female,en,"['krn', 'ladiescyb', 'reutooo', 'ellicho', 'cant', 'wait', 'ctf', 'leadingcyberladi', 'womenincyb', 'womenintech', 'httpstcoomjztznc']",0.0,0.0,neutral
 2087,"RT @k3r3n3: Happy Friday! Super excited to announce the *very first @LadiesCyber Global CTF event* will take place Feb 3, 2021, 4pm IST. Re…",e2hln,"Toronto, Ontario",USA,female,en,"['happi', 'friday', 'super', 'excit', 'announc', 'veri', 'first', 'ladiescyb', 'global', 'ctf', 'event', 'take', 'place', 'feb', 'pm', 'ist']",0.4066666666666666,0.57,positive
-2088,#hacktheplanet https://t.co/338zKfRMBm,e2hln,"Toronto, Ontario",USA,female,en,"['hacktheplanet', 'httpstcozkfrmbm']",0.0,0.0,neutral
 2089,"Mark your calendars and register for Canadian Women in Cybersecurity (#CWC) on March 8-12, 2021! 
 In partnership wi… https://t.co/s0avz2iwg4",e2hln,"Toronto, Ontario",USA,female,en,"['mark', 'calendar', 'regist', 'canadian', 'woman', 'cybersecur', 'cwc', 'march', 'partnership', 'wi', 'httpstcosavziwg']",0.0,0.0,neutral
 2090,RT @securitywitch: Our first 2021 @CyberLadiesNYC event is next week! I'm excited to host this round table and talk with such an inspiring…,e2hln,"Toronto, Ontario",USA,female,en,"['first', 'cyberladiesnyc', 'event', 'next', 'week', 'im', 'excit', 'host', 'round', 'tabl', 'talk', 'inspir']",0.08499999999999999,0.39666666666666667,positive
@@ -1859,6 +1871,7 @@ Jan-David F… https://t.co/9peG1h6Vh3",aboutintel,Berlin,Germany,unknown,en,"['
 2493,"As conflict moves to the cyber realm, peace efforts must, too, says Annika Hansen (@ZIF_Berlin). She looks at the u… https://t.co/xJzNYBHgmi",aboutintel,Berlin,Germany,unknown,en,"['conflict', 'move', 'cyber', 'realm', 'peac', 'effort', 'must', 'say', 'annika', 'hansen', 'zifberlin', 'look', 'u', 'httpstcoxjznybhgmi']",0.0,0.0,neutral
 2494,There is a worrying gap between high-tech intelligence techniques &amp; low-tech and inefficient oversight processes.… https://t.co/T0eBQUT7YY,aboutintel,Berlin,Germany,unknown,en,"['worri', 'gap', 'hightech', 'intellig', 'techniqu', 'amp', 'lowtech', 'ineffici', 'oversight', 'process', 'httpstcotebqutyy']",0.0,0.0,neutral
 2495,"@EleChelioudakis (@Homo_Digitalis_, @CiTiP_KULeuven) is concerned about a surge of police &amp; border management surve… https://t.co/2NRmgrfKUB",aboutintel,Berlin,Germany,unknown,en,"['elechelioudaki', 'homodigitali', 'citipkuleuven', 'concern', 'surg', 'polic', 'amp', 'border', 'manag', 'surv', 'httpstconrmgrfkub']",0.0,0.0,neutral
+2496,According to @jan_jirat &amp; Lorenz Naegeli (@wochenzeitung) the #ClubdeBerne has been influencing European intelligen… https://t.co/H2ouWn2276,aboutintel,Berlin,Germany,unknown,en,"['accord', 'janjirat', 'amp', 'lorenz', 'naeg', 'wochenzeitung', 'clubdebern', 'ha', 'influenc', 'european', 'intelligen', 'httpstcohouwn']",0.0,0.0,neutral
 2497,The UK government did introduce legislation later this year but set no limits on MI5 powers to authorise crimes (47… https://t.co/uoySn8d9pt,aboutintel,Berlin,Germany,unknown,en,"['uk', 'govern', 'introduc', 'legisl', 'later', 'year', 'set', 'limit', 'mi', 'power', 'authoris', 'crime', 'httpstcouoysndpt']",0.0,0.0,neutral
 2498,Sam Johnston Hawke (@Reprieve) explained the legal challenge brought against a questionable MI5 policy authorising… https://t.co/ovJ9baKQ7M,aboutintel,Berlin,Germany,unknown,en,"['sam', 'johnston', 'hawk', 'repriev', 'explain', 'legal', 'challeng', 'brought', 'question', 'mi', 'polici', 'authoris', 'httpstcoovjbakqm']",-0.15,0.6,negative
 2499,For years MI5 knowingly mishandled data collected through surveillance &amp; violated statutory safeguards. This shows… https://t.co/ZrkxiocGPo,aboutintel,Berlin,Germany,unknown,en,"['year', 'mi', 'know', 'mishandl', 'data', 'collect', 'surveil', 'amp', 'violat', 'statutori', 'safeguard', 'show', 'httpstcozrkxiocgpo']",0.0,0.0,neutral
@@ -1932,7 +1945,6 @@ Also beware of Links sent via WhatsApp or Facebook that ask for login informatio
 Please fo… https://t.co/YfrHJvr03e",thiernab,"Berlin, Germany",Germany,female,en,"['love', 'trend', 'also', 'bewar', 'link', 'sent', 'via', 'whatsapp', 'facebook', 'ask', 'login', 'informationpleas', 'fo', 'httpstcoyfrhjvr']",0.55,0.975,positive
 2656,RT @namlyd: When international travel stopped... https://t.co/RXgyJSST4Y,thiernab,"Berlin, Germany",Germany,female,en,"['intern', 'travel', 'stop', 'httpstcorxgyjssti']",0.0,0.0,neutral
 2660,"RT @hondanhon: I see we're talking about volunteer vaccination websites again, thanks to this (imho) irresponsible NYT article about ""build…",ae_fernandes,stl / nyc,USA,female,en,"['see', 'talk', 'volunt', 'vaccin', 'websit', 'thank', 'imho', 'irrespons', 'nyt', 'articl', 'build']",0.2,0.2,positive
-2661,@Diplateevo is it #PineTime yet https://t.co/cnNrpebZez,ae_fernandes,stl / nyc,USA,female,en,"['diplateevo', 'pinetim', 'yet', 'httpstcocnnrpebzez']",0.0,0.0,neutral
 2662,@default_friend I cannot stop thinking about this random antarctic creature  https://t.co/lGufJIG63i,ae_fernandes,stl / nyc,USA,female,en,"['defaultfriend', 'stop', 'think', 'random', 'antarct', 'creatur', 'httpstcolgufjigi']",-0.5,0.5,negative
 2663,"RT @rabble: Decentralized community controlled social media, @planetaryinc, that i've been working on for the last several years is live! R…",ae_fernandes,stl / nyc,USA,female,en,"['decentr', 'communiti', 'control', 'social', 'medium', 'planetaryinc', 'ive', 'work', 'last', 'sever', 'year', 'live', 'r']",0.05094696969696969,0.15833333333333333,positive
 2664,"RT @NewYorker: The Catholic church owns nearly 200 million acres of land—not just parishes and dioceses, but farms, forests, and oil wells…",ae_fernandes,stl / nyc,USA,female,en,"['cathol', 'church', 'near', 'million', 'acr', 'landnot', 'parish', 'dioces', 'farm', 'forest', 'oil', 'well']",0.05,0.25,positive
@@ -2165,7 +2177,6 @@ Together with various organizations,… https://t.co/rrENG9LsSr",PAHanania,"Berl
 2928,"Helping schools, teachers and children with #AI and #data!
 
 #Schools #technology #SDGs https://t.co/vMNNgszYn6",PAHanania,"Berlin, Deutschland",Germany,male,en,"['help', 'school', 'teacher', 'child', 'ai', 'dataschool', 'technolog', 'sdgs', 'httpstcovmnngszyn']",0.0,0.0,neutral
-2931,"@Najitter @CarlaHustedt @AgileVerwaltung @azberlin A specific one regarding #AI, the excellent MOOC aus Finnland: M… https://t.co/CWqALNtLOi",PAHanania,"Berlin, Deutschland",Germany,male,en,"['najitt', 'carlahustedt', 'agileverwaltung', 'azberlin', 'specif', 'one', 'regard', 'ai', 'excel', 'mooc', 'au', 'finnland', 'httpstcocwqalntloi']",0.5,0.5625,positive
 2932,now this is brilliant. https://t.co/GyYHyWsv36,PAHanania,"Berlin, Deutschland",Germany,male,en,"['brilliant', 'httpstcogyyhywsv']",0.9,1.0,positive
 2934,"RT @DSMeu: #AI in transport is much more than driverless cars!
 
@@ -2294,6 +2305,7 @@ In this truth, in this fait… https://t.co/e8BWIKfFKc",MaxKoschyk,"Berlin, Deut
 3083,He's on path to become a citizen this year and it goes without saying that his nomination as well as election of co… https://t.co/SCXtNQHahr,FarhanJanjua,"Berlin, Germany",Germany,male,en,"['path', 'becom', 'citizen', 'year', 'go', 'without', 'say', 'nomin', 'well', 'elect', 'co', 'httpstcoscxtnqhahr']",0.0,0.0,neutral
 3084,The comments on this and other of @Tareq_Alaows's posts are vile and triggering. It seems majority are concerned wi… https://t.co/ruDtv4YxqN,FarhanJanjua,"Berlin, Germany",Germany,male,en,"['comment', 'tareqalaowss', 'post', 'vile', 'trigger', 'seem', 'major', 'concern', 'wi', 'httpstcorudtvyxqn']",-0.125,0.375,negative
 3085,"Well #Bollywood invented it, and Germans discovered it today! 🥶🔥😏 #SchneeundSex https://t.co/vjnQKpiVnB",FarhanJanjua,"Berlin, Germany",Germany,male,en,"['well', 'bollywood', 'invent', 'german', 'discov', 'today', 'schneeundsex', 'httpstcovjnqkpivnb']",0.0,0.0,neutral
+3086,When Germans mistook ice for #DeutscheBahn #ICE train and started trending #SchneeundSex https://t.co/vKk9nTXdug,FarhanJanjua,"Berlin, Germany",Germany,male,en,"['german', 'mistook', 'ice', 'deutschebahn', 'ice', 'train', 'start', 'trend', 'schneeundsex', 'httpstcovkkntxdug']",0.0,0.0,neutral
 3087,WTF is Super Bowl and why tf do we care? Talk to me when it’s time for the cricket World Cup! https://t.co/TZ066ghf4N,FarhanJanjua,"Berlin, Germany",Germany,male,en,"['wtf', 'super', 'bowl', 'whi', 'tf', 'care', 'talk', 'time', 'cricket', 'world', 'cup', 'httpstcotzghfn']",-0.041666666666666685,0.8333333333333333,negative
 3088,"There’s no such thing as #Erdogan! 
 #Turkey #homophobia https://t.co/c5Wz1o013J",FarhanJanjua,"Berlin, Germany",Germany,male,en,"['thing', 'erdogan', 'turkey', 'homophobia', 'httpstcocwzoj']",0.0,0.5,neutral
@@ -2937,7 +2949,6 @@ Variant B.1.1.7 (aka…",kraychecker,Berlin,Germany,unknown,en,"['mutat', 'feat'
 3886,"""Africa’s intra-continental trade level hovers at just around 20%"" Africa's ambitious free trade plan, mapped… https://t.co/Tmp3iDIhCy",DKorenke,"Berlin, Germany",Germany,male,en,"['africa', 'intracontinent', 'trade', 'level', 'hover', 'around', 'africa', 'ambiti', 'free', 'trade', 'plan', 'map', 'httpstcotmpidihci']",0.325,0.775,positive
 3887,These countries give the most aid - and are the most principled about it https://t.co/6xfyRnuukK via @wef #DevelopmentMustRead,DKorenke,"Berlin, Germany",Germany,male,en,"['countri', 'give', 'aid', 'principl', 'httpstcoxfyrnuukk', 'via', 'wef', 'developmentmustread']",0.5,0.5,positive
 3888,#SecurityMustRead https://t.co/cS9On0cECu,DKorenke,"Berlin, Germany",Germany,male,en,"['securitymustread', 'httpstcocsoncecu']",0.0,0.0,neutral
-3889,#DevelopmentMustRead https://t.co/hSunlwwLVg,DKorenke,"Berlin, Germany",Germany,male,en,"['developmentmustread', 'httpstcohsunlwwlvg']",0.0,0.0,neutral
 3893,"RT @internetwache: News about hackers who attacked ""Water Supply"" in the US ...
 Also a big problem in Germany - in 2018 we gained access ~7…",TimPhSchaefers,"Berlin / Bielefeld, Germany",Germany,male,en,"['news', 'hacker', 'attack', 'water', 'suppli', 'u', 'also', 'big', 'problem', 'germani', 'gain', 'access']",0.0,0.1,neutral
 3899,@seecurity @herdom Signal (@signalapp) mentioned that this will be implemented (soon): https://t.co/89JBnpr6pt,TimPhSchaefers,"Berlin / Bielefeld, Germany",Germany,male,en,"['seecur', 'herdom', 'signal', 'signalapp', 'mention', 'implement', 'soon', 'httpstcojbnprpt']",0.0,0.0,neutral
@@ -2982,7 +2993,6 @@ Check out my first episode here!!! https://t.co/YS0LlWUGI6",Dinah_Davis,"Waterlo
 3957,@NiklasKossow @toridykes How? Do I need firewood?,avwgo,"Berlin, Deutschland",Germany,female,en,"['niklaskossow', 'toridyk', 'need', 'firewood']",0.0,0.0,neutral
 3959,"I’m once again asking you to print T-shirts @rafbuff @peterganten (# decentralized, federated, permission-less ;) https://t.co/IJuvp6rDeF",avwgo,"Berlin, Deutschland",Germany,female,en,"['im', 'onc', 'ask', 'print', 'tshirt', 'rafbuff', 'peterganten', 'decentr', 'feder', 'permissionless', 'httpstcoijuvprdef']",0.25,1.0,positive
 3960,"Recipe for tech that does good: Have a clear mission, with operational structures that serve it. Hard code your val… https://t.co/5h61wq7FDa",avwgo,"Berlin, Deutschland",Germany,female,en,"['recip', 'tech', 'doe', 'good', 'clear', 'mission', 'oper', 'structur', 'serv', 'hard', 'code', 'val', 'httpstcohwqfda']",0.16944444444444443,0.5083333333333333,positive
-3966,@anncathrin87 Whaaat,avwgo,"Berlin, Deutschland",Germany,female,en,"['anncathrin', 'whaaat']",0.0,0.0,neutral
 3970,A critical issue very well explained ⬇️ https://t.co/zqiiHmZNeI,LeonieBeining,"Berlin, Deutschland",Germany,female,en,"['critic', 'issu', 'veri', 'well', 'explain', 'httpstcozqiihmznei']",0.1,0.55,positive
 3972,RT @djleufer: Glad to see that the EU is committed to being a world leader in putting people in stupid robot suits in rooms full of servers…,LeonieBeining,"Berlin, Deutschland",Germany,female,en,"['glad', 'see', 'eu', 'commit', 'world', 'leader', 'put', 'peopl', 'stupid', 'robot', 'suit', 'room', 'full', 'server']",0.01666666666666668,0.85,positive
 3976,"RT @C___CS: Quick thread about @POLITICOEUTech AI:Decoded today.
@@ -3434,17 +3444,6 @@ HK activists &amp; politicians are arrested under ""subversion"" due to their pa
 4474,"RT @Hazloe3: Vision is not enough!
 Venture
 Step up the stairs #thextraordinarionly @AmandaRay02 @robmay @stanleychen0402 @AkwyZ @sarbjeetjo…",JohnMaynardCPA,USA,USA,male,en,"['vision', 'enoughventurestep', 'stair', 'thextraordinarion', 'amandaray', 'robmay', 'stanleychen', 'akwyz', 'sarbjeetjo']",0.0,0.5,neutral
-4475,"RT @kritimakhija: Agree?
-Say ‘Yes’ if U do!
-#WednesdayThoughts 
-
-@RossSwan2
-@RajanSinha
-@aquilbusrai
-@gary_hensel 
-@JoyAbdullah
-@baski_LA
-@…",JohnMaynardCPA,USA,USA,male,en,"['agreesay', 'yes', 'u', 'dowednesdaythought', 'rossswanrajansinhaaquilbusraigaryhensel', 'joyabdullahbaskila']",0.0,0.0,neutral
 4476,RT @fklivestolearn: Published: Global #Business Week - Visualizing Asset Class Correlation over 25 Years - https://t.co/n8Vo0yqFOX - #econo…,JohnMaynardCPA,USA,USA,male,en,"['publish', 'global', 'busi', 'week', 'visual', 'asset', 'class', 'correl', 'year', 'httpstconvoyqfox', 'econo']",0.0,0.0,neutral
 4477,"RT @fklivestolearn: Could we make more habitable #planets? #Mars #space #future #Terraform 
 
@@ -3452,7 +3451,6 @@ Say ‘Yes’ if U do!
 4478,"RT @fklivestolearn: 9 basic steps to create a personal #branding strategy - #socialmedia #DigitalMarketing #GrowthHacking 
 
 @DioFavatas @gv…",JohnMaynardCPA,USA,USA,male,en,"['basic', 'step', 'creat', 'person', 'brand', 'strategi', 'socialmedia', 'digitalmarket', 'growthhack', 'diofavata', 'gv']",0.0,0.2125,neutral
-4479,@DrJDrooghaag @Fabriziobustama @archonsec @Victoryabro @ravikikan @baski_LA @BillMew @AkwyZ @digitalcloudgal… https://t.co/4czVjUzDZp,JohnMaynardCPA,USA,USA,male,en,"['drjdrooghaag', 'fabriziobustama', 'archonsec', 'victoryabro', 'ravikikan', 'baskila', 'billmew', 'akwyz', 'digitalcloudg', 'httpstcoczvjuzdzp']",0.0,0.0,neutral
 4480,"RT @DrJDrooghaag: 🔵 The benefit of the doubt is not a recurring opportunity.
 
 #leadership #BTRTG via @DrJDrooghaag
@@ -3608,9 +3606,6 @@ https://t.co/zR2GFBA6Oh",DataInnovation,"Washington, DC",USA,unknown,en,"['ai', 
 
 https://t.co/3mb7XslwHn",DataInnovation,"Washington, DC",USA,unknown,en,"['court', 'rule', 'reflect', 'latest', 'pressur', 'ai', 'trade', 'secretshttpstcombxslwhn']",0.5,0.9,positive
 4683,Senators have reintroduced the Patient Matching Improvement Act to improve patient record linkages across providers… https://t.co/UAfshm49aO,DataInnovation,"Washington, DC",USA,unknown,en,"['senat', 'reintroduc', 'patient', 'match', 'improv', 'act', 'improv', 'patient', 'record', 'linkag', 'across', 'provid', 'httpstcouafshmao']",0.0,0.0,neutral
-4685,"Holography 'quantum leap' could revolutionise imaging
-
-https://t.co/qt7MCYReD5",DataInnovation,"Washington, DC",USA,unknown,en,"['holographi', 'quantum', 'leap', 'could', 'revolutionis', 'imaginghttpstcoqtmcyr']",0.0,0.0,neutral
 4686,"Treasury pilots AI algorithm to parse congressional spending bills faster
 
 https://t.co/UWODtiYSt1",DataInnovation,"Washington, DC",USA,unknown,en,"['treasuri', 'pilot', 'ai', 'algorithm', 'pars', 'congression', 'spend', 'bill', 'fasterhttpstcouwodtiyst']",0.0,0.0,neutral
@@ -3673,7 +3668,6 @@ Next up: th…",TysonLester,Los Angeles | CA Lic. #0F22799,USA,male,en,"['new', 
 4768,Congratulations! The project “Digital Fragmentations and Digital Sovereignty“ by Dr. Ying Huang and @mayer_iras  wi… https://t.co/ycTKbO4QAA,CASSIS_Bonn,"Bonn, Deutschland",Germany,unknown,en,"['congratul', 'project', 'digit', 'fragment', 'digit', 'sovereignti', 'dr', 'ying', 'huang', 'mayerira', 'wi', 'httpstcoyctkboqaa']",0.0,0.0,neutral
 4770,"Save the Date! This year our #International Security Forum Bonn will take place from September 29 - October 2, 2021… https://t.co/Oe9oBoNqri",CASSIS_Bonn,"Bonn, Deutschland",Germany,unknown,en,"['save', 'date', 'year', 'intern', 'secur', 'forum', 'bonn', 'take', 'place', 'septemb', 'octob', 'httpstcooeobonqri']",0.0,0.0,neutral
 4773,@UniBonn @archut,CASSIS_Bonn,"Bonn, Deutschland",Germany,unknown,en,"['unibonn', 'archut']",0.0,0.0,neutral
-4778,RT @mayer_iras: #ZeroCovid so gehts 💡 Lernen wir doch mal was von anderen Ländern. #ZeroCovidEurope #ZeroCovidGermany #EndTheLockdown aber…,CASSIS_Bonn,"Bonn, Deutschland",Germany,unknown,en,"['zerocovid', 'geht', 'lernen', 'wir', 'doch', 'mal', 'wa', 'von', 'anderen', 'ländern', 'zerocovideurop', 'zerocovidgermani', 'endthelockdown', 'aber']",0.0,0.0,neutral
 4780,"*Today, 6:15 pm, The webinar ""The West also lies in the East"" will analyse how an European initiative in the… https://t.co/xXaFPuEWKs",CASSIS_Bonn,"Bonn, Deutschland",Germany,unknown,en,"['today', 'pm', 'webinar', 'west', 'also', 'lie', 'east', 'analys', 'european', 'initi', 'httpstcoxxafpuewk']",0.0,0.0,neutral
 4781,"The webinar on the very important topic ""The #Geopolitics of Water"" is now available on YouTube 👇
 
@@ -3867,7 +3861,6 @@ negative answers only",CChucholowski,"Berlin, Germany",Germany,female,en,"['go',
 
 Check this campaign launch, looks like it‘s going to be a good dig… https://t.co/tPQRc1uOjX",CChucholowski,"Berlin, Germany",Germany,female,en,"['jif', 'jar', 'counti', 'map', 'check', 'campaign', 'launch', 'look', 'like', 'go', 'good', 'dig', 'httpstcotpqrcuojx']",0.7,0.6000000000000001,positive
 5004,"RT @informor: NEW from my group: Voterfraud2020, a public Twitter dataset with 7.6M tweets and 25.6M retweets related to voter fraud claims…",CChucholowski,"Berlin, Germany",Germany,female,en,"['new', 'group', 'voterfraud', 'public', 'twitter', 'dataset', 'tweet', 'retweet', 'relat', 'voter', 'fraud', 'claim']",0.04545454545454545,0.3070707070707071,positive
-5005,@demdiego2020 @DemsinBerlin @DemsAbroad Thank you 🙏 for all you did!,CChucholowski,"Berlin, Germany",Germany,female,en,"['demdiego', 'demsinberlin', 'demsabroad', 'thank']",0.0,0.0,neutral
 5006,Good morning!,CChucholowski,"Berlin, Germany",Germany,female,en,"['good', 'morn']",0.875,0.6000000000000001,positive
 5007,@danielmack I’m not built for this,CChucholowski,"Berlin, Germany",Germany,female,en,"['danielmack', 'im', 'built']",0.0,0.0,neutral
 5009,This was fun! Thank you @marie19a and @SonjaSchaub https://t.co/3mjoWqt2cs,CChucholowski,"Berlin, Germany",Germany,female,en,"['wa', 'fun', 'thank', 'mariea', 'sonjaschaub', 'httpstcomjowqtc']",0.375,0.2,positive
@@ -4077,7 +4070,6 @@ Ahmed Mansour w…",anncathrin87,Berlin,Germany,female,en,"['uae', 'celebr', 're
 (If you have something to add, please mention me.)
 
 1. Anti-v…",anncathrin87,Berlin,Germany,female,en,"['thread', 'print', 'conspiraci', 'myth', 'misinform', 'tbc', 'someth', 'add', 'pleas', 'mention', 'antiv']",0.0,0.0,neutral
-5351,"Ein Blick auf die ""Emotionale Landkarte"" zum #autonomousdriving in der @AudiOfficial Studie ""The pulse of autonomou… https://t.co/A1REFfirKN",pueschnerm,Deutschland,Germany,male,en,"['ein', 'blick', 'auf', 'die', 'emotional', 'landkart', 'zum', 'autonomousdriv', 'der', 'audioffici', 'studi', 'puls', 'autonomou', 'httpstcoareffirkn']",0.0,0.0,neutral
 5368,RT @DOeliger: Interesting overview of e-car incentives around the world https://t.co/cxYCthxSRi,pueschnerm,Deutschland,Germany,male,en,"['interest', 'overview', 'ecar', 'incent', 'around', 'world', 'httpstcocxycthxsri']",0.5,0.5,positive
 5401,@LauHofmann @SamanthaJPower Dann passt dazu ja ihr Buch - The Education of an Idealist! :),annkako06,Berlin/Dresden,Germany,female,en,"['lauhofmann', 'samanthajpow', 'dann', 'passt', 'dazu', 'ja', 'ihr', 'buch', 'educ', 'idealist']",0.5,1.0,positive
 5407,RT @sebezero: Happy to announce that our (w @annkako06 &amp; @tmknig) paper on #hashtagassemblages and #metwo has now been published in @Cogita…,annkako06,Berlin/Dresden,Germany,female,en,"['happi', 'announc', 'w', 'annkako', 'amp', 'tmknig', 'paper', 'hashtagassemblag', 'metwo', 'ha', 'publish', 'cogita']",0.8,1.0,positive
@@ -4086,6 +4078,7 @@ Ahmed Mansour w…",anncathrin87,Berlin,Germany,female,en,"['uae', 'celebr', 're
 A subscription model (for accounts of a certain size) would orient the platform toward its u…",somed,"Berlin, Germany",Germany,male,en,"['twitter', 'need', 'subscript', 'model', 'account', 'certain', 'size', 'would', 'orient', 'platform', 'toward', 'u']",0.21428571428571427,0.5714285714285714,positive
 5428,Finally! https://t.co/E5pGlx14B7,somed,"Berlin, Germany",Germany,male,en,"['final', 'httpstcoepglxb']",0.0,1.0,neutral
 5430,"No. When I start a new internet search, I NEVER want to know ANYTHING about Berlin, Connecticut.",dvolps,Berlin,Germany,male,en,"['start', 'new', 'internet', 'search', 'never', 'want', 'know', 'anyth', 'berlin', 'connecticut']",0.13636363636363635,0.45454545454545453,positive
+5431,@DataSciBae A stupid man concurs 🤚🏼,dvolps,Berlin,Germany,male,en,"['datasciba', 'stupid', 'man', 'concur']",-0.7999999999999999,1.0,negative
 5432,"@questlove ‘85 to ‘95 - My whole decade was about skateboarding - miles and miles of tape, sitting, watching, pausi… https://t.co/SfIn2W48Oa",dvolps,Berlin,Germany,male,en,"['questlov', 'whole', 'decad', 'wa', 'skateboard', 'mile', 'mile', 'tape', 'sit', 'watch', 'pausi', 'httpstcosfinwoa']",0.2,0.4,positive
 5433,@cherrysberries My heart goes out to you and your family.,dvolps,Berlin,Germany,male,en,"['cherrysberri', 'heart', 'go', 'famili']",0.0,0.0,neutral
 5434,@Vnlasteamer @FurtherRocktw I could circle the globe all day! Awesome 🌎🌍🌏,dvolps,Berlin,Germany,male,en,"['vnlasteam', 'furtherrocktw', 'could', 'circl', 'globe', 'day', 'awesom']",1.0,1.0,positive
@@ -4245,6 +4238,7 @@ As…",bressansar,Berlin,Germany,female,en,"['big', 'thank', 'author', 'contribu
 
 On February 18, join GPPi's @bressansar &amp; @Li…",bressansar,Berlin,Germany,female,en,"['think', 'tank', 'fight', 'misinform', 'led', 'u', 'first', 'placeon', 'februari', 'join', 'gppis', 'bressansar', 'amp', 'li']",0.25,0.3333333333333333,positive
 5764,RT @AaronRHanlon: 1) Let us pause to appreciate the sheer comedic majesty of the fact that French politicians are worried about the threat…,bressansar,Berlin,Germany,female,en,"['let', 'u', 'paus', 'appreci', 'sheer', 'comed', 'majesti', 'fact', 'french', 'politician', 'worri', 'threat']",0.0,0.375,neutral
+5765,Join us next week🗨️ https://t.co/J7W9xmP7by,bressansar,Berlin,Germany,female,en,"['join', 'u', 'next', 'week', 'httpstcojwxmpbi']",0.0,0.0,neutral
 5766,RT @ja_friedrich: Reading testimonies of systematic coverups of sexual violence at @sciencespo is exactly this: not surprising and utterly…,bressansar,Berlin,Germany,female,en,"['read', 'testimoni', 'systemat', 'coverup', 'sexual', 'violenc', 'sciencespo', 'exact', 'surpris', 'utter']",0.13333333333333333,0.5277777777777778,positive
 5767,RT @JacksonRickun: Twitter in one video https://t.co/I1YuPCvGfz,bressansar,Berlin,Germany,female,en,"['twitter', 'one', 'video', 'httpstcoiyupcvgfz']",0.0,0.0,neutral
 5768,"RT @fubits: So much wholesomeness at @sxywu &amp; @NadiehBremer Twitch book launch event for the new Data Sketches book.
@@ -4261,7 +4255,6 @@ Join thi…",bressansar,Berlin,Germany,female,en,"['think', 'tank', 'fight', 'mi
 5772,RT @NielsenAnnalise: So exciting to see The Gravy Train included in this list of the most memorable podcasts of 2019!!! 🤩https://t.co/9lWpA…,jenniferguay7,Toronto,USA,female,en,"['excit', 'see', 'gravi', 'train', 'includ', 'list', 'memor', 'podcast', 'httpstcolwpa']",0.5921875,0.7666666666666666,positive
 5773,RT @OsloIW: 5 lessons learned in 5 days at #oiw2019! 💥 See the takeways from @apoliticalco @jenniferguay7             👉🏼https://t.co/E4BhVg…,jenniferguay7,Toronto,USA,female,en,"['lesson', 'learn', 'day', 'oiw', 'see', 'takeway', 'apoliticalco', 'jenniferguay', 'httpstcoebhvg']",0.0,0.0,neutral
 5774,@james_gds @Lorna_Wall @RobynScott @mary_lestage @OneTeamGov @policommpoli @GDSTeam @londoncouncils @apoliticalco… https://t.co/PuzBxQ8ZvS,jenniferguay7,Toronto,USA,female,en,"['jamesgd', 'lornawal', 'robynscott', 'marylestag', 'oneteamgov', 'policommpoli', 'gdsteam', 'londoncouncil', 'apoliticalco', 'httpstcopuzbxqzv']",0.0,0.0,neutral
-5775,@Lorna_Wall @RobynScott @mary_lestage @OneTeamGov @policommpoli @GDSTeam @londoncouncils @apoliticalco @Lorna_Wall… https://t.co/1KazOLnRwu,jenniferguay7,Toronto,USA,female,en,"['lornawal', 'robynscott', 'marylestag', 'oneteamgov', 'policommpoli', 'gdsteam', 'londoncouncil', 'apoliticalco', 'lornawal', 'httpstcokazolnrwu']",0.0,0.0,neutral
 5776,"@AlejaDC @RobynScott @AlejaDC Echoing Robyn, I'd love to chat – please DM/drop me a line at jennifer.guay@apolitical.co. Thanks!",jenniferguay7,Toronto,USA,female,en,"['alejadc', 'robynscott', 'alejadc', 'echo', 'robyn', 'id', 'love', 'chat', 'pleas', 'dmdrop', 'line', 'jenniferguayapoliticalco', 'thank']",0.375,0.4,positive
 5777,RT @EmmaWatson: ✊❤️ https://t.co/F1oPiXfNCi,jenniferguay7,Toronto,USA,female,en,['httpstcofopixfnci'],0.0,0.0,neutral
 5778,RT @nireyal: How government can design services like Google | Apolitical https://t.co/f8M8mqv6Zz,jenniferguay7,Toronto,USA,female,en,"['govern', 'design', 'servic', 'like', 'googl', 'apolit', 'httpstcofmmqvzz']",0.0,0.0,neutral
@@ -4383,7 +4376,6 @@ So, in the last couple of weeks I've been looking into a product we were thinkin
 5957,"@LisaForteUK @SarahASmith75 @WH_Y @Jake_MooreUK @FLAnderson Missing the Option: ""What is your definition of 'own[er… https://t.co/IXIzYczuLU",jantdm,"Munich, Germany",Germany,male,en,"['lisaforteuk', 'sarahasmith', 'whi', 'jakemooreuk', 'flanderson', 'miss', 'option', 'definit', 'owner', 'httpstcoixizyczulu']",-0.2,0.05,negative
 5959,"RT @Bing_Chris: According to a press conference today: Hackers broke into a water treatment facility in Florida, gained access to a interna…",jantdm,"Munich, Germany",Germany,male,en,"['accord', 'press', 'confer', 'today', 'hacker', 'broke', 'water', 'treatment', 'facil', 'florida', 'gain', 'access', 'interna']",0.0,0.0,neutral
 5960,@dcuthbert I’ll ask 😉,jantdm,"Munich, Germany",Germany,male,en,"['dcuthbert', 'ill', 'ask']",0.0,0.0,neutral
-5961,@rndashm @dcuthbert https://t.co/Yo3YVnLrDJ,jantdm,"Munich, Germany",Germany,male,en,"['rndashm', 'dcuthbert', 'httpstcoyoyvnlrdj']",0.0,0.0,neutral
 5962,"@dcuthbert We’re rebuilding our product docs on a markdown basis. With a pipeline to a static website, PDF(s) and e… https://t.co/wFFYK6xMlq",jantdm,"Munich, Germany",Germany,male,en,"['dcuthbert', 'rebuild', 'product', 'doc', 'markdown', 'basi', 'pipelin', 'static', 'websit', 'pdfs', 'e', 'httpstcowffykxmlq']",0.5,0.9,positive
 5964,It wouldn’t be the first time #emotet makes a comeback. But for now: “Don’t Cry Because It’s Over; Smile Because It Happened” I guess. 🤪,jantdm,"Munich, Germany",Germany,male,en,"['wouldnt', 'first', 'time', 'emotet', 'make', 'comeback', 'dont', 'cri', 'becaus', 'smile', 'becaus', 'happen', 'guess']",0.275,0.21666666666666667,positive
 5965,"@z_edian My cyber security practitioner story:
@@ -4398,7 +4390,7 @@ Behold the tale of kid who reu…",jantdm,"Munich, Germany",Germany,male,en,"['r
 
 https://t.co/aLvOymaRB5 https://t.co/dj…",St_Heumann,Berlin,Germany,male,en,"['anoth', 'day', 'anoth', 'facebook', 'clone', 'damn', 'thing', 'law', 'ithttpstcoalvoymarb', 'httpstcodj']",0.0,0.0,neutral
 5972,@juschuetze @HonkHase @CyberAlexi @EuropeanCyber I got the chance to drink it. Very tasty. @juschuetze got some serious brewing talent.,St_Heumann,Berlin,Germany,male,en,"['juschuetz', 'honkhas', 'cyberalexi', 'europeancyb', 'got', 'chanc', 'drink', 'veri', 'tasti', 'juschuetz', 'got', 'serious', 'brew', 'talent']",-0.06666666666666665,0.4833333333333333,negative
-5976,@benwagne_r @StanleyMat @LubosKuklis @mcarolinaferro @johannekuebler @agustinrs @daphnehk @mathver @linnetelwin… https://t.co/7WZHNlSSPk,St_Heumann,Berlin,Germany,male,en,"['benwagn', 'stanleymat', 'luboskuk', 'mcarolinaferro', 'johannekuebl', 'agustinr', 'daphnehk', 'mathver', 'linnetelwin', 'httpstcowzhnlsspk']",0.0,0.0,neutral
+5974,@benwagne_r @StanleyMat @LubosKuklis @mcarolinaferro @johannekuebler @agustinrs @daphnehk @mathver @linnetelwin… https://t.co/f2y9rTouhf,St_Heumann,Berlin,Germany,male,en,"['benwagn', 'stanleymat', 'luboskuk', 'mcarolinaferro', 'johannekuebl', 'agustinr', 'daphnehk', 'mathver', 'linnetelwin', 'httpstcofyrtouhf']",0.0,0.0,neutral
 5986,"While this is well-deserved and will help make threat intelligence better at Facebook, it is also part of a larger… https://t.co/PQWAarw8Op",St_Heumann,Berlin,Germany,male,en,"['welldeserv', 'help', 'make', 'threat', 'intellig', 'better', 'facebook', 'also', 'part', 'larger', 'httpstcopqwaarwop']",0.5,0.5,positive
 5987,@RikeFranke Just two thoughts. Bascially the same AI applications we see in the civilian sector. And referring to c… https://t.co/aKQXqNYnJN,St_Heumann,Berlin,Germany,male,en,"['rikefrank', 'two', 'thought', 'bascial', 'ai', 'applic', 'see', 'civilian', 'sector', 'refer', 'c', 'httpstcoakqxqnynjn']",0.0,0.125,neutral
 5988,"@RikeFranke Serious question. What is ""military AI""? Hasn't there been a trend for more automated capabilities in w… https://t.co/p3cWzZt4UJ",St_Heumann,Berlin,Germany,male,en,"['rikefrank', 'serious', 'question', 'militari', 'ai', 'hasnt', 'trend', 'autom', 'capabl', 'w', 'httpstcopcwzztuj']",0.022222222222222216,0.4222222222222222,positive
@@ -4625,6 +4617,7 @@ German President Frank-Walter Steinmeier reacts to th…",jas_abroad,"Berlin, Ge
 6236,"RT @InIIS_Bremen: In light of this week's #WashingtonDC riots, we highly recommend E. Gaufman's (@lisas_research) 2018 article ""The #Trump…",jas_abroad,"Berlin, Germany",Germany,female,en,"['light', 'week', 'washingtondc', 'riot', 'high', 'recommend', 'e', 'gaufman', 'lisasresearch', 'articl', 'trump']",0.28,0.6199999999999999,positive
 6237,"RT @thehill: Texas Democrats Joaquin and Julián Castro call for Cruz to step down: ""He has conducted himself shamelessly"" https://t.co/eGz6…",jas_abroad,"Berlin, Germany",Germany,female,en,"['texa', 'democrat', 'joaquin', 'julin', 'castro', 'call', 'cruz', 'step', 'ha', 'conduct', 'shameless', 'httpstcoegz']",-0.15555555555555559,0.2888888888888889,negative
 6238,"RT @arlenebtickner: ""Due to travel restrictions, this year the United States had to organize the coup at home.”",jas_abroad,"Berlin, Germany",Germany,female,en,"['due', 'travel', 'restrict', 'year', 'unit', 'state', 'organ', 'coup', 'home']",-0.125,0.375,negative
+6239,@ultimateloather @find_evil Accurate,jas_abroad,"Berlin, Germany",Germany,female,en,"['ultimateloath', 'findevil', 'accur']",0.4000000000000001,0.6333333333333334,positive
 6240,"RT @Public_Citizen: For reference, there were 14,000+ arrests at the George Floyd protests.",jas_abroad,"Berlin, Germany",Germany,female,en,"['refer', 'arrest', 'georg', 'floyd', 'protest']",0.0,0.0,neutral
 6241,"RT @coolieduppy: ‘When the looting starts, the shooting starts’*
 
@@ -4718,7 +4711,6 @@ Previous outage was focused o…",deblebrown,New York,USA,female,en,"['internet'
 6343,Nice one @SAMPOOKE!! Keep on going 🛴🛴🛴 https://t.co/GNS0GUBsgt,Egels14,"Berlin, Deutschland",Germany,male,en,"['nice', 'one', 'sampook', 'keep', 'go', 'httpstcognsgubsgt']",0.9375,1.0,positive
 6344,"RT @voitechnology: Grüezi Bern! 🇨🇭 Today, we’re excited to announce that we’re launching in the capital of Switzerland - Bern. Tip: look ou…",Egels14,"Berlin, Deutschland",Germany,male,en,"['grüezi', 'bern', 'today', 'excit', 'announc', 'launch', 'capit', 'switzerland', 'bern', 'tip', 'look', 'ou']",0.375,0.75,positive
 6353,"Great Work @RichardCorbett_  and team in the UK, looking forward for more to come 🛴🛴🚲🚲 https://t.co/oTQ4eSv4nT",Egels14,"Berlin, Deutschland",Germany,male,en,"['great', 'work', 'richardcorbett', 'team', 'uk', 'look', 'forward', 'come', 'httpstcootqesvnt']",0.65,0.625,positive
-6363,In knapp 2h geht es los. 🙂👋 https://t.co/OPnIoaCdup,somed,"Berlin, Germany",Germany,male,en,"['knapp', 'h', 'geht', 'e', 'los', 'httpstcoopnioacdup']",0.0,0.0,neutral
 6365,"RT @profgalloway: What #Twitter needs to do: 
 
 A subscription model (for accounts of a certain size) would orient the platform toward its u…",somed,"Berlin, Germany",Germany,male,en,"['twitter', 'need', 'subscript', 'model', 'account', 'certain', 'size', 'would', 'orient', 'platform', 'toward', 'u']",0.21428571428571427,0.5714285714285714,positive
@@ -4802,6 +4794,7 @@ Seeing tears &amp; hearing cries of…",dr_nickiw,"Durham, NC",USA,female,en,"['
 
 https://t.co/rgjdopGvRd",kerstin_zettl,Heidelberg,Germany,female,en,"['german', 'consult', 'firm', 'hvs', 'attribut', 'new', 'lazarus', 'espionag', 'campaign', 'european', 'companieshttpstcorgjdopgvrd']",-0.015909090909090914,0.21363636363636362,negative
 6487,"Thanks a lot, @_AckermannK !😊 https://t.co/L098iJDTtc",kerstin_zettl,Heidelberg,Germany,female,en,"['thank', 'lot', 'ackermannk', 'httpstcolijdttc']",0.25,0.2,positive
+6488,RT @caparsons: Inside Russia’s Secret Propaganda Unit https://t.co/jH6FH56u1K,kerstin_zettl,Heidelberg,Germany,female,en,"['insid', 'russia', 'secret', 'propaganda', 'unit', 'httpstcojhfhuk']",-0.25,0.39999999999999997,negative
 6490,RT @hatr: This is an absolutely great speech by @ciaranmartinoxf on  cyber-operations. What they can achieve and what liberal democracies s…,kerstin_zettl,Heidelberg,Germany,female,en,"['absolut', 'great', 'speech', 'ciaranmartinoxf', 'cyberoper', 'achiev', 'liber', 'democraci']",0.8,0.75,positive
 6492,RT @guardian: Anger at football academies' girls being stood down while boys can play on https://t.co/iG69lgWHP1,kerstin_zettl,Heidelberg,Germany,female,en,"['anger', 'footbal', 'academi', 'girl', 'stood', 'boy', 'play', 'httpstcoiglgwhp']",-0.42777777777777776,0.24444444444444446,negative
 6493,"Introduces the theoretical foundations of our cyber conflict data set HD-CY.CON, which will be published next year! https://t.co/p2NoOnEI5l",kerstin_zettl,Heidelberg,Germany,female,en,"['introduc', 'theoret', 'foundat', 'cyber', 'conflict', 'data', 'set', 'hdcycon', 'publish', 'next', 'year', 'httpstcopnooneil']",0.0,0.05,neutral
@@ -5022,17 +5015,17 @@ On #HolocaustRemembranceDay, we remember the Holocaust and honor its victims and
 6795,@AmbNum @HenriVerdier Let's congratulate Finnland  @Ulkoministerio @JanneTaalas for assuming Chairship at… https://t.co/wUipqf1iIu,GERonCyber,Berlin,Germany,female,en,"['ambnum', 'henriverdi', 'let', 'congratul', 'finnland', 'ulkoministerio', 'jannetaala', 'assum', 'chairship', 'httpstcowuipqfiiu']",0.0,0.0,neutral
 6796,@AmbNum @HenriVerdier @Elysee @JY_LeDrian @CBeaune @francediplo_EN @GermanyDiplo @HeikoMaas @MiRo_SPD @ODA_Geneva… https://t.co/ohkWEqcKMM,GERonCyber,Berlin,Germany,female,en,"['ambnum', 'henriverdi', 'elyse', 'jyledrian', 'cbeaun', 'francediploen', 'germanydiplo', 'heikomaa', 'mirospd', 'odageneva', 'httpstcoohkweqckmm']",0.0,0.0,neutral
 6797,@AmbNum @HenriVerdier @Elysee @JY_LeDrian @CBeaune @francediplo_EN @GermanyDiplo @HeikoMaas @MiRo_SPD @ODA_Geneva… https://t.co/Ju6yxVBXoB,GERonCyber,Berlin,Germany,female,en,"['ambnum', 'henriverdi', 'elyse', 'jyledrian', 'cbeaun', 'francediploen', 'germanydiplo', 'heikomaa', 'mirospd', 'odageneva', 'httpstcojuyxvbxob']",0.0,0.0,neutral
-6798,@AmbNum @HenriVerdier @Elysee @JY_LeDrian @CBeaune @francediplo_EN @GermanyDiplo @HeikoMaas @MiRo_SPD @ODA_Geneva… https://t.co/rsqeR75xql,GERonCyber,Berlin,Germany,female,en,"['ambnum', 'henriverdi', 'elyse', 'jyledrian', 'cbeaun', 'francediploen', 'germanydiplo', 'heikomaa', 'mirospd', 'odageneva', 'httpstcorsqerxql']",0.0,0.0,neutral
+6799,@AmbNum @HenriVerdier @Elysee @JY_LeDrian @CBeaune @francediplo_EN @GermanyDiplo @HeikoMaas @MiRo_SPD @ODA_Geneva P… https://t.co/7pmNZknpCh,GERonCyber,Berlin,Germany,female,en,"['ambnum', 'henriverdi', 'elyse', 'jyledrian', 'cbeaun', 'francediploen', 'germanydiplo', 'heikomaa', 'mirospd', 'odageneva', 'p', 'httpstcopmnzknpch']",0.0,0.0,neutral
 6800,Good Morning @AmbNum @HenriVerdier! What is on your agenda today? #22January #Elysee #Aachen #LongLiveFriendship… https://t.co/J490OZzKxL,GERonCyber,Berlin,Germany,female,en,"['good', 'morn', 'ambnum', 'henriverdi', 'agenda', 'today', 'januari', 'elyse', 'aachen', 'longlivefriendship', 'httpstcojozzkxl']",0.875,0.6000000000000001,positive
 6801,Apply now! And become a @Tech4Germany Fellow https://t.co/2wvRtdVXhA,GERonCyber,Berlin,Germany,female,en,"['appli', 'becom', 'techgermani', 'fellow', 'httpstcowvrtdvxha']",0.0,0.0,neutral
 6802,RT @PeggyValcke: As @NathalieSmuha rightly noted: there's growing consensus over the need for binding rules for #AI (we can probably compar…,GERonCyber,Berlin,Germany,female,en,"['nathaliesmuha', 'right', 'note', 'grow', 'consensus', 'need', 'bind', 'rule', 'ai', 'probabl', 'compar']",0.2857142857142857,0.5357142857142857,positive
+6803,"@Dunja_Mijatovic said today: ""Algorithms must not violate individual rights."" https://t.co/jvNZaSNnuF",GERonCyber,Berlin,Germany,female,en,"['dunjamijatov', 'said', 'today', 'algorithm', 'must', 'violat', 'individu', 'right', 'httpstcojvnzasnnuf']",0.0,0.4,neutral
 6805,"RT @WHO: Today is #WorldCancerDay 
 
 Here are some ways to ↘️ your #cancer risk:
 🚭 Don't use tobacco
 🏊‍♂️ Exercise regularly
 🍅 Eat healthy f…",NessiWi,Wiesbaden.Berlin.Roma.Padova.,USA,female,en,"['today', 'worldcancerday', 'way', 'cancer', 'risk', 'dont', 'use', 'tobacco', 'exercis', 'regular', 'eat', 'healthi', 'f']",0.25,0.28846153846153844,positive
-6810,Cooles Tool! 👩‍💻 https://t.co/x46yQo3xOG,NessiWi,Wiesbaden.Berlin.Roma.Padova.,USA,female,en,"['cool', 'tool', 'httpstcoxyqoxog']",0.0,0.0,neutral
 6815,@pretzpolitics @gloriamue93 @JenoKrishnan @cpkrohne 🚀,NessiWi,Wiesbaden.Berlin.Roma.Padova.,USA,female,en,"['pretzpolit', 'gloriamu', 'jenokrishnan', 'cpkrohn']",0.0,0.0,neutral
 6824,RT @juschuetze: My colleagues have been working on this Surveillance Oversight Database. The database compiles documents related to surveil…,andre_weisser,"Berlin, Germany",Germany,male,en,"['colleagu', 'work', 'surveil', 'oversight', 'databas', 'databas', 'compil', 'document', 'relat', 'surveil']",0.0,0.4,neutral
 6826,"RT @republica: Save the date!
@@ -5088,10 +5081,10 @@ start asking if they help people.",namirari,Metro Detroit,USA,female,en,"['stop'
 6868,@DennisF @mattjay i’m lucky to work with such an incredibly talented team with @Seeker. they are seriously phenomenal at what they do!,starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['dennisf', 'mattjay', 'im', 'lucki', 'work', 'incred', 'talent', 'team', 'seeker', 'serious', 'phenomen']",0.4145833333333333,0.6833333333333333,positive
 6869,@AllanaSmithee I LOVE PHYSICS,starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['allanasmithe', 'love', 'physic']",0.5,0.6,positive
 6870,this vid of Apollo 15 astronauts on the moon simultaneously dropping a feather &amp; hammer &amp; watching them fall at the… https://t.co/b65i5LC82S,starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['vid', 'apollo', 'astronaut', 'moon', 'simultan', 'drop', 'feather', 'amp', 'hammer', 'amp', 'watch', 'fall', 'httpstcobilc']",0.0,0.0,neutral
-6871,@joypatrica @dog_rates @sampson_dog @bunsenbernerbmd SO GLAD she’s safe ❤️❤️❤️❤️,starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['joypatrica', 'dograt', 'sampsondog', 'bunsenbernerbmd', 'glad', 'shes', 'safe']",0.5,0.75,positive
 6873,"RT @Astropartigirl: Yeah dude I just HATE knowing how things work! Who the fuck CARES how the Universe will die, or that we don't understan…",starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['yeah', 'dude', 'hate', 'know', 'thing', 'work', 'fuck', 'care', 'univers', 'die', 'dont', 'understan']",-0.7,0.75,negative
 6874,@DennisF your stamp of approval means the world — thank you Dennis!!,starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['dennisf', 'stamp', 'approv', 'mean', 'world', 'thank', 'denni']",0.0,0.0,neutral
 6875,RT @DennisF: This series is so good. Get your learn on.,starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['seri', 'good', 'get', 'learn']",0.7,0.6000000000000001,positive
+6876,@jansky_girl so happy to hear you liked it!!!,starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['janskygirl', 'happi', 'hear', 'like']",0.9,0.9,positive
 6877,"RT @jansky_girl: Learn about the colours of stars, what that means, and the different types of telescopes astronomers and engineers use.  T…",starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['learn', 'colour', 'star', 'mean', 'differ', 'type', 'telescop', 'astronom', 'engin', 'use']",0.0,0.6,neutral
 6878,"RT @DocWithBowtie: If you’re like me and you’ve always thought space was kind of cool but you don’t know much about it, you must check out…",starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['like', 'youv', 'alway', 'thought', 'space', 'wa', 'kind', 'cool', 'dont', 'know', 'much', 'must', 'check']",0.3833333333333333,0.5833333333333334,positive
 6879,"today is my brilliant, hilarious best friend @biologistimo’s birthday. since we can’t celebrate in person, can you… https://t.co/1IBYiGhcdt",starstrickenSF,"P.O.Box 457 Berkeley, CA 94701",USA,female,en,"['today', 'brilliant', 'hilari', 'best', 'friend', 'biologistimo', 'birthday', 'sinc', 'cant', 'celebr', 'person', 'httpstcoibyighcdt']",0.7999999999999999,0.7666666666666666,positive
@@ -5175,6 +5168,7 @@ Hear that, red team, defense wins championsh…",nicoleperlroth,San Francisco li
 6982,"RT @NYTScience: New data from several vaccine trials offer positive signs, but many public health experts say emerging variants mean the ne…",nicoleperlroth,San Francisco lifer,USA,female,en,"['new', 'data', 'sever', 'vaccin', 'trial', 'offer', 'posit', 'sign', 'mani', 'public', 'health', 'expert', 'say', 'emerg', 'variant', 'mean', 'ne']",0.09185606060606061,0.3756944444444444,positive
 6983,"RT @michelletandler: ""Before Thursday’s crash, Lyons had been arrested at least seven times in the Bay Area since his release from prison i…",nicoleperlroth,San Francisco lifer,USA,female,en,"['befor', 'thursday', 'crash', 'lyon', 'arrest', 'least', 'seven', 'time', 'bay', 'area', 'sinc', 'releas', 'prison']",-0.3,0.4,negative
 6984,"RT @sastoudt: Really appreciating @defilippovale's advice for when to say ""no"" (and also when to say ""yes"" even if it feels like a ""maybe"")…",LittleMissData,"Texas, USA",USA,female,en,"['realli', 'appreci', 'defilippoval', 'advic', 'say', 'also', 'say', 'yes', 'even', 'feel', 'like', 'mayb']",0.2,0.2,positive
+6986,@LauraKomkov Love this Laura ❤️,LittleMissData,"Texas, USA",USA,female,en,"['laurakomkov', 'love', 'laura']",0.5,0.6,positive
 6987,RT @DrBDT: @sastoudt @LittleMissData Was every else also curled into a ball and watching the screen through their fingers? We KNEW where th…,LittleMissData,"Texas, USA",USA,female,en,"['sastoudt', 'littlemissdata', 'wa', 'everi', 'els', 'also', 'curl', 'ball', 'watch', 'screen', 'finger', 'knew', 'th']",0.0,0.0,neutral
 6988,RT @bkey: #datamishapsnight making me feel better about that update without a where clause I ran this week 😬 https://t.co/cfnCf0aYVx,LittleMissData,"Texas, USA",USA,female,en,"['datamishapsnight', 'make', 'feel', 'better', 'updat', 'without', 'claus', 'ran', 'week', 'httpstcocfncfayvx']",0.5,0.5,positive
 6989,RT @ajgust20: “My experience is the sum of the mistakes I’ve made along the way.” -@beeonaposy #datamishapsnight,LittleMissData,"Texas, USA",USA,female,en,"['experi', 'sum', 'mistak', 'ive', 'made', 'along', 'way', 'beeonaposi', 'datamishapsnight']",0.0,0.0,neutral
@@ -5201,7 +5195,6 @@ Please, data scientists, don't forget about the pipeline!… https://t.co/ZjrMc8
 7002,"I think ""Humility"" is my favorite word on this word cloud.  We WILL make mistakes.  
 
 Always best to approach situa… https://t.co/V3a3xE0CNN",LittleMissData,"Texas, USA",USA,female,en,"['think', 'humil', 'favorit', 'word', 'word', 'cloud', 'make', 'mistak', 'alway', 'best', 'approach', 'situa', 'httpstcovaxecnn']",0.75,0.65,positive
-7003,I LOVED this quote @GhazalGulati https://t.co/eHhRg2cx9M,LittleMissData,"Texas, USA",USA,female,en,"['love', 'quot', 'ghazalgulati', 'httpstcoehhrgcxm']",0.7,0.8,positive
 7004,@RonDeibert Agree with that!,LindsayPGorman,DC / The Berkshires,USA,female,en,"['rondeibert', 'agre']",0.0,0.0,neutral
 7005,"The unfortunate/uncomfortable reality is that ""fusion"" of analysis of disparate data can drive actionable insights.… https://t.co/oGYKda8qM0",LindsayPGorman,DC / The Berkshires,USA,female,en,"['unfortunateuncomfort', 'realiti', 'fusion', 'analysi', 'dispar', 'data', 'drive', 'action', 'insight', 'httpstcoogykdaqm']",0.0,0.0,neutral
 7006,Clubhouse now blocked in China. Sigh... https://t.co/W5s8xStLOt,LindsayPGorman,DC / The Berkshires,USA,female,en,"['clubhous', 'block', 'china', 'sigh', 'httpstcowsxstlot']",0.0,0.0,neutral
@@ -5746,6 +5739,7 @@ https://t.co/8rXq8YTXwU",BecomingDataSci,"Harrisonburg, VA",USA,female,en,"['exp
 
 In all seriousness, rejection is really tough, especially when Twitter makes it lo… https://t.co/Xj14KdIiU4",jefrankle,"Washington, DC",USA,male,en,"['poolio', 'hey', 'line', 'serious', 'reject', 'realli', 'tough', 'especi', 'twitter', 'make', 'lo', 'httpstcoxjkdiiu']",0.037037037037037035,0.9444444444444445,positive
 7489,@SanhEstPasMoi @sarahookr @nunuska @tianlong_chen @zhuohan123 @Eric_Wallace_ @shengs1123 @nlpkevinl Thank you for featuring our work :),jefrankle,"Washington, DC",USA,male,en,"['sanhestpasmoi', 'sarahookr', 'nunuska', 'tianlongchen', 'zhuohan', 'ericwallac', 'sheng', 'nlpkevinl', 'thank', 'featur', 'work']",0.5,1.0,positive
+7490,"RT @SanhEstPasMoi: Featuring works from @sarahookr @nunuska et al., @tianlong_chen et al.,  @jefrankle et al., @zhuohan123 @Eric_Wallace_ @…",jefrankle,"Washington, DC",USA,male,en,"['featur', 'work', 'sarahookr', 'nunuska', 'et', 'al', 'tianlongchen', 'et', 'al', 'jefrankl', 'et', 'al', 'zhuohan', 'ericwallac']",0.0,0.0,neutral
 7491,"Personally, I think every month is sparsity month! Thank you to @huggingface for featuring our work (with @mcarbin… https://t.co/jlKxMJb6nl",jefrankle,"Washington, DC",USA,male,en,"['person', 'think', 'everi', 'month', 'sparsiti', 'month', 'thank', 'huggingfac', 'featur', 'work', 'mcarbin', 'httpstcojlkxmjbnl']",0.0,0.3,neutral
 7492,@rcalo @paulohm And we're happy to share our materials with folks who are interested teaching similar courses at other universities!,jefrankle,"Washington, DC",USA,male,en,"['rcalo', 'paulohm', 'happi', 'share', 'materi', 'folk', 'interest', 'teach', 'similar', 'cours', 'univers']",0.2234375,0.56875,positive
 7493,"RT @fordstheatre: A statement from Ford's Theatre Director Paul R. Tetreault on the events of January 6, 2021 at the U.S. Capitol. https://…",jefrankle,"Washington, DC",USA,male,en,"['statement', 'ford', 'theatr', 'director', 'paul', 'r', 'tetreault', 'event', 'januari', 'u', 'capitol', 'http']",0.0,0.0,neutral
@@ -5765,6 +5759,7 @@ We’re looking for people excited to tackle problems around technology, justic�
 7501,"RT @Maggiemakar: I'm on the job market! I like to think about making causal inference efficient using ideas from ML, and making ML more rob…",jefrankle,"Washington, DC",USA,male,en,"['im', 'job', 'market', 'like', 'think', 'make', 'causal', 'infer', 'effici', 'use', 'idea', 'ml', 'make', 'ml', 'rob']",0.5,0.5,positive
 7502,Repeating my offer from the @MLRetrospective panel today: the ML community desperately needs a survey track (like I… https://t.co/kFBVko0ezZ,jefrankle,"Washington, DC",USA,male,en,"['repeat', 'offer', 'mlretrospect', 'panel', 'today', 'ml', 'communiti', 'desper', 'need', 'survey', 'track', 'like', 'httpstcokfbvkoezz']",-0.6,1.0,negative
 7504,"RT @angelquicksey: ""History, despite it's wrenching pain, cannot be unlived, but if faced with courage, need not be lived again."" - Maya An…",KirstenRulf,"Berlin, Deutschland",Germany,female,en,"['histori', 'despit', 'wrench', 'pain', 'unliv', 'face', 'courag', 'need', 'live', 'maya']",0.0,0.0,neutral
+7507,@yiftahc @GermanyDiplo @IsraelMFA @GerAmbTLV @YakiLopez @GideonShir @SimonKreye @llscheller @GonenYonatan… https://t.co/iCthjGTQxv,KirstenRulf,"Berlin, Deutschland",Germany,female,en,"['yiftahc', 'germanydiplo', 'israelmfa', 'gerambtlv', 'yakilopez', 'gideonshir', 'simonkrey', 'llscheller', 'gonenyonatan', 'httpstcoicthjgtqxv']",0.0,0.0,neutral
 7509,@WolfgangTeves @MSKBayreuth 🥺,KirstenRulf,"Berlin, Deutschland",Germany,female,en,"['wolfgangtev', 'mskbayreuth']",0.0,0.0,neutral
 7510,Truly great idea for doers by #Digitalrat member @bethnoveck 👇🏻 https://t.co/QePyP2IBem,KirstenRulf,"Berlin, Deutschland",Germany,female,en,"['truli', 'great', 'idea', 'doer', 'digitalrat', 'member', 'bethnoveck', 'httpstcoqepypibem']",0.8,0.75,positive
 7512,Cool position with cool colleagues 😉 #AI https://t.co/rFWcQqA8Ty,KirstenRulf,"Berlin, Deutschland",Germany,female,en,"['cool', 'posit', 'cool', 'colleagu', 'ai', 'httpstcorfwcqqati']",0.35,0.65,positive
@@ -5912,7 +5907,6 @@ https://t.co/97LzdCX1Bt",snowjake,"San Francisco, CA",USA,male,en,"['take', 'bre
 7648,"RT @IfeomaOzoma: Today, @SenatorLeyva intro'd the Silenced No More Act! I’ve been excited about this bill since last year, when @PeterRukin…",aprilaser,"Oakland, CA",USA,female,en,"['today', 'senatorleyva', 'introd', 'silenc', 'act', 'ive', 'excit', 'bill', 'sinc', 'last', 'year', 'peterrukin']",0.020833333333333332,0.4388888888888889,positive
 7649,RT @MariahCarey: Happy Colin Kaepernick Appreciation Day!,aprilaser,"Oakland, CA",USA,female,en,"['happi', 'colin', 'kaepernick', 'appreci', 'day']",1.0,1.0,positive
 7650,"Last week was hard, hoping this one is better",aprilaser,"Oakland, CA",USA,female,en,"['last', 'week', 'wa', 'hard', 'hope', 'one', 'better']",0.06944444444444443,0.36944444444444446,positive
-7651,@EskSF I miss your local journo happy hours!!,aprilaser,"Oakland, CA",USA,female,en,"['esksf', 'miss', 'local', 'journo', 'happi', 'hour']",0.5,0.5,positive
 7652,"RT @EricaJoy: this part.
 
 we are a year into a slow moving catastrophe. it's not better yet. people are still struggling.
@@ -6214,6 +6208,7 @@ HT @jonmladd https://t.co/gzIU4fb5Yb",conjugateprior,Berlin 🇩🇪,USA,male,en
 (and ms14 likewise, it's very nerve-wracking)",ThatAndromeda,"Somerville, MA",USA,female,en,"['metaver', 'yiiiiik', 'likewis', 'veri', 'nervewrack']",-0.275,0.65,negative
 8036,RT @alexsteacy: Gender pronouns implies the existence of gender amateur nouns which describes a thriving and diverse hobbyist field.,ThatAndromeda,"Somerville, MA",USA,female,en,"['gender', 'pronoun', 'impli', 'exist', 'gender', 'amateur', 'noun', 'describ', 'thrive', 'divers', 'hobbyist', 'field']",-0.25,0.25,negative
 8037,"@skeskali not yet, which is odd, considering this game was over a while ago",ThatAndromeda,"Somerville, MA",USA,female,en,"['skeskali', 'yet', 'odd', 'consid', 'game', 'wa', 'ago']",-0.2833333333333333,0.325,negative
+8038,"@eminencefont yikes, I hope you feel better soon",ThatAndromeda,"Somerville, MA",USA,female,en,"['eminencefont', 'yike', 'hope', 'feel', 'better', 'soon']",0.5,0.5,positive
 8039,@geekandahalf I did not realize that the thing I needed was a large middle-aged female action hero but I DO,ThatAndromeda,"Somerville, MA",USA,female,en,"['geekandahalf', 'realiz', 'thing', 'need', 'wa', 'larg', 'middleag', 'femal', 'action', 'hero']",0.10476190476190476,0.23174603174603173,positive
 8040,@weirdnoirmaster @dr_tj I saw it after mine had a life-threatening illness so...yeah,ThatAndromeda,"Somerville, MA",USA,female,en,"['weirdnoirmast', 'drtj', 'saw', 'mine', 'lifethreaten', 'ill', 'soyeah']",0.0,0.0,neutral
 8041,@dr_tj @weirdnoirmaster yeah I needed MUCH more specific content warnings for that one. It's incredible but I should not have watched it.,ThatAndromeda,"Somerville, MA",USA,female,en,"['drtj', 'weirdnoirmast', 'yeah', 'need', 'much', 'specif', 'content', 'warn', 'one', 'incred', 'watch']",0.4666666666666666,0.5083333333333333,positive
@@ -6223,6 +6218,7 @@ HT @jonmladd https://t.co/gzIU4fb5Yb",conjugateprior,Berlin 🇩🇪,USA,male,en
 8045,I‘m a Dukie 💙😈 @DukeU  #NewProfilePic https://t.co/tbwMLekWs5,CharlotteKais10,"Durham, NC",USA,female,en,"['im', 'duki', 'dukeu', 'newprofilep', 'httpstcotbwmlekw']",0.0,0.0,neutral
 8046,"Very excited for talks about Data Privacy &amp; Race, Schrems II, Google LLC v CNIL and meaningful choices when it come… https://t.co/7g98DRVJUr",CharlotteKais10,"Durham, NC",USA,female,en,"['veri', 'excit', 'talk', 'data', 'privaci', 'amp', 'race', 'schrem', 'ii', 'googl', 'llc', 'v', 'cnil', 'meaning', 'choic', 'come', 'httpstcogdrvjur']",0.49375,0.7375,positive
 8049,"RT @FMH_EU: Imagine where we as a society could be today if, in addition to all the skills of us #men, all the various skills of #women had…",CharlotteKais10,"Durham, NC",USA,female,en,"['imagin', 'societi', 'could', 'today', 'addit', 'skill', 'u', 'men', 'various', 'skill', 'woman']",0.0,0.5,neutral
+8063,Climbing in SoCal✅ https://t.co/xvdMHvZQTl,CharlotteKais10,"Durham, NC",USA,female,en,"['climb', 'socal', 'httpstcoxvdmhvzqtl']",0.0,0.0,neutral
 8064,RT @DukeMBB: Sunrise over K-Ville today only woulda looked better with ⛺️⛺️⛺️ https://t.co/EYhbbmBpZs,CharlotteKais10,"Durham, NC",USA,female,en,"['sunris', 'kvill', 'today', 'onli', 'woulda', 'look', 'better', 'httpstcoeyhbbmbpz']",0.25,0.75,positive
 8065,"RT @MerrittBaer: some good thoughts here by @peterwsinger on preparing our armed forces better. 
 
@@ -6290,6 +6286,7 @@ New #WhatADay newsletter out now: https://t.co/5N…",jonfavs,"Los Angeles, CA",
 
 https://t.co/…",jonfavs,"Los Angeles, CA",USA,male,en,"['sanit', 'call', 'nutti', 'endors', 'execut', 'speaker', 'hous', 'hang', 'obama', 'clintonhttpstco']",0.0,0.0,neutral
 8134,RT @cwarzel: i'm gonna keep doing columns on the subject of attention throughout the year...tell me what i should be looking into/writing a…,jonfavs,"Los Angeles, CA",USA,male,en,"['im', 'gon', 'na', 'keep', 'column', 'subject', 'attent', 'throughout', 'yeartel', 'look', 'intowrit']",-0.16666666666666666,0.3333333333333333,negative
+8135,HE’S THE VACCINATED PRESIDENT OF THE UNITED STATES WHO FLIES ON AIR FORCE ONE ARE YOU FUCKING KIDDING ME https://t.co/0CJYNMY9uw,jonfavs,"Los Angeles, CA",USA,male,en,"['vaccin', 'presid', 'unit', 'state', 'fli', 'air', 'forc', 'one', 'fuck', 'kid', 'httpstcocjynmyuw']",-0.6,0.8,negative
 8136,Hey @emilyfavreau are you ghostwriting David Brooks columns now or what https://t.co/vtRG5RRHGK,jonfavs,"Los Angeles, CA",USA,male,en,"['hey', 'emilyfavreau', 'ghostwrit', 'david', 'brook', 'column', 'httpstcovtrgrrhgk']",0.0,0.0,neutral
 8138,@TVietor08 Do you think there was an all-staff Zoom at the White House today to discuss What To Do about Larry’s op… https://t.co/nCLLFPKZz2,jonfavs,"Los Angeles, CA",USA,male,en,"['tvietor', 'think', 'wa', 'allstaff', 'zoom', 'white', 'hous', 'today', 'discus', 'larri', 'op', 'httpstconcllfpkzz']",0.0,0.0,neutral
 8139,"RT @notthemessenger: If @jonfavs and @danpfeiffer made you as mad/scared about the filibuster as they did me, you may find this helpful. I…",jonfavs,"Los Angeles, CA",USA,male,en,"['jonfav', 'danpfeiff', 'made', 'madscar', 'filibust', 'may', 'find', 'help']",0.0,0.0,neutral
@@ -6414,7 +6411,6 @@ https://t.co/OGRbxrR94Y",sugrobovas,"Berlin, Germany",Germany,female,en,"['wonde
 8248,"I'm discussing “Inner work fürStartups ” with Tina Egolf, Bettina Rollow, @KatjaJaeger, Charlotte Kufus, and Linda… https://t.co/fai6DKLyRi",joanabp,"Berlin, Germany",Germany,female,en,"['im', 'discuss', 'inner', 'work', 'fürstartup', 'tina', 'egolf', 'bettina', 'rollow', 'katjajaeg', 'charlott', 'kufus', 'linda', 'httpstcofaidklyri']",0.0,0.16666666666666666,neutral
 8252,"I'm discussing “Founders - Der Startup Talk aus Berlin” with @oletillmann and @joerg. Today, 2. Feb at 12:00 PM CET… https://t.co/HLuScAb5G6",joanabp,"Berlin, Germany",Germany,female,en,"['im', 'discuss', 'founder', 'der', 'startup', 'talk', 'au', 'berlin', 'oletillmann', 'joerg', 'today', 'feb', 'pm', 'cet', 'httpstcohluscabg']",0.0,0.0,neutral
 8257,"Check out this website, tracking Bidens first 100 days performance: https://t.co/f1CHnaIlFO thanks @amrsobhy",joanabp,"Berlin, Germany",Germany,female,en,"['check', 'websit', 'track', 'biden', 'first', 'day', 'perform', 'httpstcofchnailfo', 'thank', 'amrsobhi']",0.225,0.26666666666666666,positive
-8260,RT @teraspri: Ausführlicher Beitrag @dlfkultur zu Social Entrepreneurship u.a. mit @QRTRMSTR @p_eckert @_tomorrow_one @InasNureldin @better…,joanabp,"Berlin, Germany",Germany,female,en,"['ausführlich', 'beitrag', 'dlfkultur', 'zu', 'social', 'entrepreneurship', 'ua', 'mit', 'qrtrmstr', 'peckert', 'tomorrowon', 'inasnureldin', 'better']",0.03333333333333333,0.06666666666666667,positive
 8261,"You want to know what the Future of Work feels like - physically, emotionally and mentally? Check out this video: https://t.co/zjAiJRazAC",joanabp,"Berlin, Germany",Germany,female,en,"['want', 'know', 'futur', 'work', 'feel', 'like', 'physic', 'emot', 'mental', 'check', 'video', 'httpstcozjaijrazac']",-0.03333333333333333,0.325,negative
 8265,RT @petras_petras: Belarus Solidarity Day ir #Brussels. #ZhyvieBelarus! https://t.co/Mp1WTHMjbc,GaurivanGulik,"Berlin, Germany",Germany,female,en,"['belarus', 'solidar', 'day', 'ir', 'brussel', 'zhyviebelarus', 'httpstcompwthmjbc']",0.0,0.0,neutral
 8266,"The audacity of hope.
@@ -6500,6 +6496,7 @@ More information about our a… https://t.co/72uH91lSRT",Vidmish22,Berlin,German
 8320,"RT @genderhealthhub: Gender-Based Violence is on the rise. 
 
 We dedicate this week to analysing how #GBV Response Services can be maintaine…",Vidmish22,Berlin,Germany,female,en,"['genderbas', 'violenc', 'rise', 'dedic', 'week', 'analys', 'gbv', 'respons', 'servic', 'maintain']",0.0,0.0,neutral
+8321,@bressansar @JWI_Berlin Thank you!,Vidmish22,Berlin,Germany,female,en,"['bressansar', 'jwiberlin', 'thank']",0.0,0.0,neutral
 8322,"Signing off from week 1 of 2021 (phew) with this :)
 
 'The Fourth Industrial Revolution and Its Impact on Ethics' is… https://t.co/GJwl0mZ5yw",Vidmish22,Berlin,Germany,female,en,"['sign', 'week', 'phew', 'fourth', 'industri', 'revolut', 'impact', 'ethic', 'httpstcogjwlmzyw']",0.25,0.5,positive
