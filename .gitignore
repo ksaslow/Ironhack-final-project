@@ -1,6 +1,8 @@
 
 # Don't track content of these folders:
 twitter_credentials_copy.json
+.DS_Store
+
 
 
 
