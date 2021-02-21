@@ -6,6 +6,8 @@
 ### Sentiment Analysis of Tweets comparing my German and American Networks. 
 
 ### Introduction:
+For the final project of my Ironhack data analytics course, I wanted to conduct an exploratory analysis on my Twitter network. I wrangled, cleaned, structured, and tagged my data using the Twitter API and tweepy, pandas, spaCy, and more. 
+
 I used the Twitter API to gather tweets from my friends and followers. Through interacting with the API, I was able to gather tweets, location, gender, and other helpful information to use in my analysis. I filtered the tweets to only include people from Germany (and Austria and Switzerland) and America (and Canada) in my analysis. 
 
 My hypothesis was that Germans would be more negative overall than Americans, but that the women in my American network would be more negative than the women in my German network. Only the former held true. One dimension of further analysis I would like to conduct is to train my own classification model to pick up on sarcasm and context better, because I have the feeling that the women I follow (overwhelmingly women in tech) are highly sarcastic on twitter.
